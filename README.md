@@ -20,8 +20,8 @@ MINERVA
 Research and Development
 
 ## Included Mods
-[**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550)
-[**2004 Water Particles Recreation**](https://gamebanana.com/mods/369550)
+[**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550): 1
+[**2004 Water Particles Recreation**](https://gamebanana.com/mods/369550): 1
 [**1K Bills**]()
 [**2K Blast Door**]()
 [**2K HEV Clipboard**]()
