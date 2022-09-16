@@ -14,7 +14,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
-# VoiceAttack Setup (Optional)
+## VoiceAttack Setup (Optional)
 Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
 
 ## Included Campaigns
