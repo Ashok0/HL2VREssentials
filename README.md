@@ -32,63 +32,121 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**1K Bills**](https://gamebanana.com/mods/311124)
 
 [**2K Blast Door**](https://gamebanana.com/mods/181038)
+
 [**2K HEV Clipboard**](https://gamebanana.com/mods/181039)
+
 [**2K Trash**](https://gamebanana.com/mods/6603)
+
 [**4K Rug**](https://gamebanana.com/mods/6601)
+
 [**BazookaTooth's HL2 FX Pack**](https://gamebanana.com/mods/11302)
+
 [**Combine Turret Remake**](https://gamebanana.com/mods/182474)
+
 [**CSGO Large Dumpster Replacement**](https://gamebanana.com/mods/182497)
+
 [**Decals Revamp**](https://gamebanana.com/mods/11358)
+
 [**Blood 4K**](https://gamebanana.com/mods/11370)
+
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
+
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
+
 [**Half Life Alyx Supplycrate**](https://gamebanana.com/mods/182710)
+
 [**Half Life Alyx Trainstation Benches**](https://gamebanana.com/mods/182503)
+
 [**Half-Life 2 Propane Canisters - Remake**](https://gamebanana.com/mods/182547)
+
 [**Half-Life 2 Remade Assets (Citizen Radio)**](https://gamebanana.com/mods/348653)
+
 [**Half-Life 2 Remade Assets (Combine Interface)**](https://gamebanana.com/mods/303851)
+
 [**Half-Life 2 Remade Assets (Razor Train)**](https://gamebanana.com/mods/301708)
+
 [**Half-Life 2 Remade Assets (Suit Charger)**](https://gamebanana.com/mods/300619)
+
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
+
 [**Half-Life 2 Remade Assets DE Source 1 Port - Junk and Vending Only**](https://gamebanana.com/mods/300761)
+
 [**Extra-Detailed DrBreens Water Set**](https://gamebanana.com/mods/181932)
+
 [**Half-Life Alyx Pigeon**](https://gamebanana.com/mods/318698)
+
 [**Half-Life Alyx Repaired HEV Suit**](https://gamebanana.com/mods/293420)
+
 [**Half-Life Alyx Suitcase**](https://gamebanana.com/mods/330741)
+
 [**HD Beta Antlion Reskin**](https://gamebanana.com/mods/182066)
+
 [**HD Cactus**](https://gamebanana.com/mods/182505)
+
 [**HD Crates**](https://gamebanana.com/mods/182529)
+
 [**Trainstation Remade**](https://gamebanana.com/mods/400743)
+
 [**HD Decals Pack #1**](https://gamebanana.com/mods/6616)
+
 [**HD Decals Pack #2**](https://gamebanana.com/mods/6615)
+
 [**HD Explosion Decals**](https://gamebanana.com/mods/11355)
+
 [**HD ITEMS - No Battery**](https://www.moddb.com/mods/half-life-2-hd-remastered-texture-pack/downloads/hd1)
+
 [**HD Maps Remake**](https://gamebanana.com/mods/6649)
+
 [**HD Newspaper**](https://gamebanana.com/mods/182496)
+
 [**HD Remake Corkboards**](https://gamebanana.com/mods/182795)
+
 [**HD Remake Photos**](https://gamebanana.com/mods/182790)
+
 [**HD Retexture Keypad**](https://gamebanana.com/mods/182514)
+
 [**HD Video Feeds**](https://gamebanana.com/mods/310736)
+
 [**HL2 MMod Improved Sounds**](https://gamebanana.com/mods/40723)
+
 [**HL2 Remake Barrels**](https://gamebanana.com/mods/182561)
+
 [**HD Remake Barrels (Old Version)**](https://gamebanana.com/mods/182562)
+
 [**HLA Combine's Props**](https://gamebanana.com/mods/366898)
+
 [**HLA Combine's Walls**](https://gamebanana.com/mods/370056)
+
 [**Half-Life Alyx Assets in Half-Life 2**](https://gamebanana.com/mods/291754)
+
 [**HD Remake Combine's Lock**](https://gamebanana.com/mods/183151)
+
 [**HLA Padlock Prop**](https://gamebanana.com/mods/378884)
+
 [**HLA Playground Props**](https://gamebanana.com/mods/386837)
+
 [**Half Life Alyx Alcohol Bottles**](https://gamebanana.com/mods/182502)
+
 [**HLA-L4D1 Flashlight Replacement**](https://gamebanana.com/mods/374478)
+
 [**Intro Test Chamber Replacement**](https://gamebanana.com/mods/57134)
+
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
+
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
+
 [**Manhack Remake**](https://gamebanana.com/mods/182473)
+
 [**Munancho INC's Improved Ammo Crates**](https://gamebanana.com/mods/182722)
+
 [**New Burning FX**](https://gamebanana.com/mods/11318)
+
 [**Raising The Bar Redux Ceiling Turret Reskin**](https://gamebanana.com/mods/371409)
+
 [**Toxic Slime Reworked**](https://gamebanana.com/mods/6656)
+
 [**Ultimate Alyx Reskin (default model)**](https://gamebanana.com/mods/182178)
+
 [**Vanilla Style Half-Life Alyx Health Charger**](https://gamebanana.com/mods/182565)
 
 ## Other Recommended Mods
