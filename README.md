@@ -11,8 +11,9 @@ This modpack is also pre-configured with experimental VR support for Minerva Met
 ## Installation
 1. Download HLVR_MO2_Repack.rar and extract Mod Organizer 2 to a folder of your choice.
 2. Download EP1+2 Assets.rar and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.
-3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
-4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with mods.
+- This step adds episodic assets to your HL2VR folder.  This will not allow you to play the episodes, but will allow you to play Minerva, Research and Development, and Nightmare House Remakae which all use Episode 1+2 models and textures.
+4. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
+5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with mods.
 
 Included Campaigns
 Nightmare House 1 Remake
