@@ -150,7 +150,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**Vanilla Style Half-Life Alyx Health Charger**](https://gamebanana.com/mods/182565)
 
 ## Other Recommended Mods
-- []():
+- [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
 - [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its art style changes.
 
 ## Recommended Modding Tools
