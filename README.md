@@ -6,7 +6,7 @@ Half-Life 2 has gained a massive library of incredible mods over the years.  Kee
 
 I have made an attempt to greatly simplify the Half-Life 2 VR's modding process by creating a standalone copy of Mod Organizer 2 which is preconfigured with the most essential mods for improving immersion in Half-Life 2 VR.  Great care was taken in selecting the best and most "VR friendly" models and textures with an appropriate load order across a wide variety of different texture mods.  All credit for the mods included in this modpack goes to the original mod authors.   
 
-This modpack is also pre-configured with experimental VR support for Minerva Metastasis, Research and Development, and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
+This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis, Research and Development, and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
 ## Installation
 1. Download [**HLVR_MO2_Repack.rar**](https://drive.google.com/file/d/1VYIpXoqdFKrUVWgkBeqd89UNi3zkch4q/view?usp=sharing) and extract Mod Organizer 2 to a folder of your choice.
@@ -14,13 +14,13 @@ This modpack is also pre-configured with experimental VR support for Minerva Met
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
-# Voice Attack Setup (Optional)
-Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of Voice Attack, you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
+# VoiceAttack Setup (Optional)
+Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
 
 ## Included Campaigns
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
-[**MINERVA**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+[**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
 [**Research and Development**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
