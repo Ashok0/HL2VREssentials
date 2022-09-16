@@ -10,7 +10,7 @@ This modpack is also pre-configured with experimental VR support for Minerva Met
 
 ## Installation
 1. Download HLVR_MO2_Repack.rar and extract Mod Organizer 2 to a folder of your choice.
-2. Download EP1+2 Assets.rar and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remakae which all use Episode 1+2 models and textures.)
+2. Download EP1+2 Assets.rar and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
@@ -19,7 +19,9 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 ## Included Campaigns
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+
 [**MINERVA**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+
 [**Research and Development**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
 ## Included Mods
