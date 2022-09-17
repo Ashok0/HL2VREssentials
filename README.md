@@ -17,12 +17,25 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 ## VoiceAttack Setup (Optional)
 Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
 
-## Included Campaigns
+## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Required removing the "bin" folders from the mod and Episodes 1+2.
 
 [**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Required removing the "bin" folders from the mod and Episodes 1+2.
+
+[**MINERVA Reimagined**](https://www.moddb.com/mods/minerva-reimagined)
+- Removed all files aside from "materials" and "models".
+
+[**MINERVA VR HUD Fix**]
+- Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
 [**Research and Development**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
+- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Required removing the "bin" folders from the mod and Episodes 1+2.
+- A new game must be started via a flat saved game.
 
 ## Included Mods
 [**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550)
@@ -70,8 +83,9 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
 
 [**Half-Life 2 Remade Assets DE Source 1 Port - Junk and Vending Only**](https://gamebanana.com/mods/300761)
+- Used only "props_junk" and "vendingmachinesoda01a"
 
-[**Extra-Detailed DrBreens Water Set**](https://gamebanana.com/mods/181932)
+[**Extra-Detailed DrBreens Water Set - Popcan**](https://gamebanana.com/mods/181932)
 
 [**Half-Life Alyx Pigeon**](https://gamebanana.com/mods/318698)
 
@@ -94,6 +108,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**HD Explosion Decals**](https://gamebanana.com/mods/11355)
 
 [**HD ITEMS - No Battery**](https://www.moddb.com/mods/half-life-2-hd-remastered-texture-pack/downloads/hd1)
+- Removed "models\items\battery.*"
 
 [**HD Maps Remake**](https://gamebanana.com/mods/6649)
 
@@ -132,6 +147,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**Intro Test Chamber Replacement**](https://gamebanana.com/mods/57134)
 
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
+- Used only "battery01"
 
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
 
