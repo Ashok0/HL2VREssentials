@@ -33,11 +33,6 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**MINERVA VR HUD Fix**]
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
-[**Research and Development**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
-- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
-- Required removing the "bin" folders from the mod and Episodes 1+2.
-- A new game must be started via a flat saved game.
-
 ## Included Mods
 [**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550)
 
@@ -179,4 +174,8 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 - Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
 - Black Mesa: Does not work.  Crashes to the desktop.
 - Cinematic Mod 2013: Does not work.  Reflections are glitched which renders the mod mostly unusable.  CM2013 oddly worked fine with the Half-Life 2 VR private beta.  One of the final September updates seems to have broken the mod.
+
+## Credits
+All credit for this mod pack goes to the following original creators: [Jay], [SU]- Zen, ~Eevah~, A-06, A-Shift, Adam "Cargo Cult" Foster, Ahri Lover, Banahezzer, BazookaTooth, Benedict_Kapustin42, Boromir Artementaller, CondiRoks, CrazyHairGuy, cubicApocalypse, DetonatedStorm, DrGordonFreeman96, Dynamic_, Ellie, Empower1, Fakefactory, Foxidimi, GameSpy, General Ecchi, H3000, HL2MMod Team, Iiopn, Iretuerye, Isomeric Gamer, Jeremiexp, Jerson Gaming, Jofoyo, jQueary, kalimando, MARK2580, Mbbote, Mine60000, MrBrightside, Munancho INC., MYSTIC, Nixel, nubblecakes, QueenPlague_Cure, Red Menace, Reverend V92, SamMaddie, Shadow_RUN, Sierra Foxtrot, Spoono, The Half-Life 2: Remade Assets Team (Retro Boy, Kube, MDDBULLDOGG, Exeros, hELLO, LVJohnFreeman, E Borge), themanclaw, 
+TwoTime, TwoTime, Volkolak, Vort95, We Create Stuff, Wolfcl0ck, Wood_y, Zekeakers1.
 
