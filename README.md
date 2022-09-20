@@ -177,6 +177,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 ## Credits
 All credit for this mod pack goes to the following original creators:
+
 **[Jay], [SU]- Zen, ~Eevah~, A-06, A-Shift, Adam "Cargo Cult" Foster, Ahri Lover, Banahezzer, BazookaTooth, Benedict_Kapustin42, Boromir Artementaller, CondiRoks, CrazyHairGuy, cubicApocalypse, DetonatedStorm, DrGordonFreeman96, Dynamic_, Ellie, Empower1, Fakefactory, Foxidimi, GameSpy, General Ecchi, H3000, HL2MMod Team, Iiopn, Iretuerye, Isomeric Gamer, Jeremiexp, Jerson Gaming, Jofoyo, jQueary, kalimando, MARK2580, Mbbote, Mine60000, MrBrightside, Munancho INC., MYSTIC, Nixel, nubblecakes, QueenPlague_Cure, Red Menace, Reverend V92, SamMaddie, Shadow_RUN, Sierra Foxtrot, Spoono, The Half-Life 2: Remade Assets Team (Retro Boy, Kube, MDDBULLDOGG, Exeros, hELLO, LVJohnFreeman, E Borge), themanclaw, 
 TwoTime, TwoTime, Volkolak, Vort95, We Create Stuff, Wolfcl0ck, Wood_y, Zekeakers1**.
 
