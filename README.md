@@ -6,7 +6,7 @@ Half-Life 2 has gained a massive library of incredible mods over the years.  Kee
 
 I have made an attempt to greatly simplify Half-Life 2 VR's modding process by creating a standalone copy of Mod Organizer 2 which is preconfigured with the most essential mods for improving immersion in Half-Life 2 VR.  Great care was taken in selecting the best and most "VR friendly" models and textures with an appropriate load order across a wide variety of different texture mods.  All credit for the mods included in this modpack goes to the original mod authors.   
 
-This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis, Research and Development, and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
+This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
 ## Installation
 1. Download [**HLVR_MO2_Repack.rar**](https://drive.google.com/file/d/1VYIpXoqdFKrUVWgkBeqd89UNi3zkch4q/view?usp=sharing) and extract Mod Organizer 2 to a folder of your choice.
@@ -173,7 +173,8 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 ## Compatability notes
 - Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
 - Black Mesa: Does not work.  Crashes to the desktop.
-- Cinematic Mod 2013: Does not work.  Reflections are glitched which renders the mod mostly unusable.  CM2013 oddly worked fine with the Half-Life 2 VR private beta.  One of the final September updates seems to have broken the mod.
+- Research and Development: Mr. Whirly does not work.
+- Cinematic Mod 2013: Partially working.  Reflections are glitched. (Reflections oddly worked fine with the Half-Life 2 VR private beta.)
 
 ## Credits
 All credit for this mod pack goes to the following original creators:
