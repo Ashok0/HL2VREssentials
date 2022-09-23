@@ -1,5 +1,7 @@
 New mods
 ========
+Cinematic Mod 2013 - Lab Props Only
+
 MORE COULOURS - Half-Life Alyx Valve
 
 Airboat Remaster
