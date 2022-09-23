@@ -194,7 +194,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its art style changes.
 
 ## Recommended Modding Tools
-- [**Mod Organizer 2 Plugin for Half-Life 2 VR**](https://www.nexusmods.com/halflife2/mods/35):  Allows for Skyrim style modding with Mod Organizer 2.  Removes the complexity of dealing with "custom" folders.
+- [**Mod Organizer 2 Plugin for Half-Life 2 VR**](https://www.nexusmods.com/halflife2/mods/35):  Allows for Skyrim style modding with Mod Organizer 2.  Removes the complexity of managing load order from "custom" folders.
 - [**GCFScape**](https://nemstools.github.io/pages/GCFScape-Download.html): Used for decompressing VPK files.
 - [**Gmad - Easy Addon Extractor**](https://www.moddb.com/mods/garrys-mod/downloads/gmad-easy-addon-extractor): Used for decompressing Garry's Mod addons.
 
