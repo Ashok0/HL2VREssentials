@@ -1,5 +1,7 @@
-# Half-Life 2 VR Essentials Modpack (v0.9)
-Last updated: September 16, 2022 
+# Half-Life 2 VR Essentials Modpack (v1.0)
+Last updated: September 23, 2022
+
+NEW MIRRORS!
 
 ## Preamble
 Half-Life 2 has gained a massive library of incredible mods over the years.  Keeping track of the best HL2 mods can be cumbersome as everything is mostly scattered across Gamebanana, Moddb, and Gmod Workshop.  There are arguably no great all-one-one HL2 texture mods for retexturing the entire game, as most texture mods are either not comprehensive or make contentious changes to the game's original artstyle.  
@@ -9,8 +11,8 @@ I have made an attempt to greatly simplify Half-Life 2 VR's modding process by c
 This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
 ## Installation
-1. Download [**HLVR_MO2_Repack.rar**](https://drive.google.com/file/d/1VYIpXoqdFKrUVWgkBeqd89UNi3zkch4q/view?usp=sharing) and extract Mod Organizer 2 to a folder of your choice.
-2. Download [**EP1+2 Assets.rar**](https://drive.google.com/file/d/1g_QkR3Q35AnTKcdPfPNMNj5helwAIz2w/view?usp=sharing) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
+1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to a folder of your choice.
+2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
@@ -19,21 +21,24 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 ## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
-- Merged the original mod "materials" and "models" with Nixel's custom patched Gmod version of Nightmare House Remake.
-- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
-- Required removing the "bin" folders from the mod and Episodes 1+2.
+If you wish to install Nightmare House 1 manually without using this Repack, perform the following step:
+- Download Nixel's Gmod version of Nightmare House Remake and install it as a regular mod.
+- Download Nightmare House 2 and merge its "materials" and "models" folders with Nightmare House 1.
+- Mount Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Remove the "bin" folders from Nightmare House 1 and Episodes 1+2.
 
 [**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
-- Required mounting Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
-- Required removing the "bin" folders from the mod and Episodes 1+2.
-
-[**MINERVA Reimagined**](https://www.moddb.com/mods/minerva-reimagined)
-- Removed all files aside from "materials" and "models".
+If you wish to install MINERVA manually without using this Repack, perform the following step:
+- Download MINERVA from Steam and install it as a regular mod.
+- Mount Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Remove the "bin" folders from MINERVA and Episodes 1+2.
 
 [**MINERVA VR HUD Fix**]
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
 ## Included Mods
+[**MORE COULOURS - Half-Life Alyx Valve**](https://gamebanana.com/mods/379478)
+
 [**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550)
 
 [**2004 Water Particles Recreation**](https://gamebanana.com/mods/373490)
@@ -48,7 +53,11 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**4K Rug**](https://gamebanana.com/mods/6601)
 
+[**Airboat Remaster**](https://gamebanana.com/mods/181939)
+
 [**BazookaTooth's HL2 FX Pack**](https://gamebanana.com/mods/11302)
+
+[**Better Foliage for Half-Life 2**](https://gamebanana.com/wips/51165)
 
 [**Combine Turret Remake**](https://gamebanana.com/mods/182474)
 
@@ -57,10 +66,18 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**Decals Revamp**](https://gamebanana.com/mods/11358)
 
 [**Blood 4K**](https://gamebanana.com/mods/11370)
+- Downscaled to 2048px to prevent engine errors.
+
+[**GAZ-53 Replacement**](https://gamebanana.com/mods/358140)
+
+[**Half Life Alyx Alcohol Bottles**](https://gamebanana.com/mods/182502)
+
+[**Half Life Alyx Cargo Containers**](https://gamebanana.com/mods/182533)
 
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
+-Added "nodecal" flag to mod to prevent engine errors.
 
 [**Half Life Alyx Supplycrate**](https://gamebanana.com/mods/182710)
 
@@ -78,12 +95,16 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
 
-[**Half-Life 2 Remade Assets DE Source 1 Port - Junk and Vending Only**](https://gamebanana.com/mods/300761)
-- Used only "props_junk" and "vendingmachinesoda01a"
+[**Half-Life 2 Remade Assets DE Source 1 Port - Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
+- Used only "props_junk", "doll", and "vendingmachinesoda01a"
 
-[**Extra-Detailed DrBreens Water Set - Popcan**](https://gamebanana.com/mods/181932)
+[**Half-Life Alyx Multitool**](https://gamebanana.com/mods/320312)
 
 [**Half-Life Alyx Pigeon**](https://gamebanana.com/mods/318698)
+
+[**Half-Life Alyx Props**](https://gamebanana.com/mods/181050)
+
+[**Extra-Detailed DrBreens Water Set - Blue Popcan**](https://gamebanana.com/mods/181932)
 
 [**Half-Life Alyx Repaired HEV Suit**](https://gamebanana.com/mods/293420)
 
@@ -94,8 +115,6 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**HD Cactus**](https://gamebanana.com/mods/182505)
 
 [**HD Crates**](https://gamebanana.com/mods/182529)
-
-[**Trainstation Remade**](https://gamebanana.com/mods/400743)
 
 [**HD Decals Pack #1**](https://gamebanana.com/mods/6616)
 
@@ -110,6 +129,8 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**HD Newspaper**](https://gamebanana.com/mods/182496)
 
+[**HD Overhaul - Ladders Only**](https://www.playground.ru/half-life_2/file/half_life_2_uluchshennye_tekstury_v_2k-1049020)
+
 [**HD Remake Corkboards**](https://gamebanana.com/mods/182795)
 
 [**HD Remake Photos**](https://gamebanana.com/mods/182790)
@@ -118,11 +139,13 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**HD Video Feeds**](https://gamebanana.com/mods/310736)
 
-[**HL2 MMod Improved Sounds**](https://gamebanana.com/mods/40723)
-
 [**HL2 Remake Barrels**](https://gamebanana.com/mods/182561)
 
 [**HD Remake Barrels (Old Version)**](https://gamebanana.com/mods/182562)
+
+[**HLA Bones Pack**](https://gamebanana.com/mods/384956)
+
+[**HLA Buildings**](https://gamebanana.com/mods/181933)
 
 [**HLA Combine's Props**](https://gamebanana.com/mods/366898)
 
@@ -136,7 +159,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**HLA Playground Props**](https://gamebanana.com/mods/386837)
 
-[**Half Life Alyx Alcohol Bottles**](https://gamebanana.com/mods/182502)
+[**HLA Props Pack**](https://gamebanana.com/mods/181058)
 
 [**HLA-L4D1 Flashlight Replacement**](https://gamebanana.com/mods/374478)
 
@@ -155,11 +178,15 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 
 [**Raising The Bar Redux Ceiling Turret Reskin**](https://gamebanana.com/mods/371409)
 
+[**REMASTERED! Half-Life Alyx Combine Prisoner Pods**](https://gamebanana.com/mods/329975)
+
 [**Toxic Slime Reworked**](https://gamebanana.com/mods/6656)
 
-[**Ultimate Alyx Reskin (default model)**](https://gamebanana.com/mods/182178)
+[**Trainstation Remade**](https://gamebanana.com/mods/400743)
 
 [**Vanilla Style Half-Life Alyx Health Charger**](https://gamebanana.com/mods/182565)
+
+[**Water Tower Remake**](https://gamebanana.com/mods/181934)
 
 ## Other Recommended Mods
 - [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
