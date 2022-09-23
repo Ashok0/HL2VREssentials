@@ -30,17 +30,17 @@ REMASTERED! Half-Life Alyx Combine Prisoner Pods
 
 Updated mods
 ============
-HEP
+HEP: Swapped concrete texture with zDak Total Texture Pack.
 
-Nightmare House 1 Remake
+Nightmare House 1 Remake: Fixed menu.
 
-Blood 4K
+Blood 4K: Updated to fix engine errors.
 
-Half Life Alyx Combine Consoles + Generator
+Half Life Alyx Combine Consoles + Generator: Updated to fix engine errors.
 
-Half-Life 2 Remade Assets DE Source 1 Port 
+Half-Life 2 Remade Assets DE Source 1 Port: Added doll. 
 
-Trainstation Remade
+Trainstation Remade: Updated.
 
 
 Removed Mods
@@ -49,7 +49,7 @@ MINERVA Reimagined
 
 Research and Development
 
-HL2 MMod Improved Sounds
+HL2 MMod Improved Sounds: Removed to fix missing audio.
 
-Ultimate Alyx Reskin
+Ultimate Alyx Reskin: Removed to fix engine errors.
 
