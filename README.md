@@ -102,7 +102,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
 
 [**Half-Life 2 Remade Assets DE Source 1 Port - Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
-- Used only "doll01", and "vendingmachinesoda01a", and "props_junk".
+- Used only "doll01", "vendingmachinesoda01a", and "props_junk".
 
 [**Half-Life Alyx Multitool**](https://gamebanana.com/mods/320312)
 
