@@ -34,6 +34,7 @@ With Mod Organizer 2, you can set custom commands to run at starup by placing th
 Walking speed can be tweaked with slower values by adding these two lines to: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
 
 *hl2_normspeed 120*
+
 *hl2_sprintspeed 220*
 
 Note that these settings will prevent you from moving when crouching.  To adjust walking speed without breaking crouching, you can alternatively tweak your movement speed with VoiceAttack as described below.
