@@ -78,7 +78,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
--Added "nodecal" flag to mod to prevent engine errors.
+
+- Added "nodecal" flag to mod to prevent engine errors.
 
 [**Half Life Alyx Supplycrate**](https://gamebanana.com/mods/182710)
 
@@ -149,6 +150,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**HLA Buildings**](https://gamebanana.com/mods/181933)
 
 [**HLA Combine's Props**](https://gamebanana.com/mods/366898)
+- Added "nodecal" flag to mod to prevent engine errors.
 
 [**HLA Combine's Walls**](https://gamebanana.com/mods/370056)
 
