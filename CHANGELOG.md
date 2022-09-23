@@ -47,6 +47,8 @@ Removed Mods
 ============
 MINERVA Reimagined
 
+Research and Development
+
 HL2 MMod Improved Sounds
 
 Ultimate Alyx Reskin
