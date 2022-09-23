@@ -41,7 +41,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Swapped main menu concrete textures (concretefloor037b) with better versions from zDak Total Texture Pack v5.7.
 
 [**Cinematic Mod 2013 - Lab Props Only**](https://www.moddb.com/mods/fakefactory-cinematic-mod)
-- Used only \models\props_lab\generatorcosoff.\*, \models\props_lab\generatorcosole.\*, "ff_models", and "ff_props".
+- Used only \models\props_lab\generatorconsoff.\*, \models\props_lab\generatorconsole.\*, "ff_models", and "ff_props".
 
 [**MORE COULOURS - Half-Life Alyx Valve**](https://gamebanana.com/mods/379478)
 
