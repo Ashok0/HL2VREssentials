@@ -26,8 +26,20 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 
 ## Configuration
 
-#### VoiceAttack Setup (Optional)
-Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
+#### Config File
+With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
+(Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
+
+#### Tweak Movement Speed with Autoexec.cfg (Optional)
+Walking speed can be tweaked with slower values by adding these two lines to: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
+
+*hl2_normspeed 120*
+*hl2_sprintspeed 220*
+
+Note that these settings will prevent you from moving when crouching.  To adjust walking speed without breaking crouching, you can alternatively tweak your movement speed with VoiceAttack as described below.
+
+#### Tweak Movement Speed with VoiceAttack (Optional)
+This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!    
 
 ## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
