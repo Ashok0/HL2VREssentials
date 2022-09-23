@@ -1,8 +1,6 @@
 # Half-Life 2 VR Essentials Modpack (v1.0)
 Last updated: September 23, 2022
 
-NEW MIRRORS!
-
 ## Preamble
 Half-Life 2 has gained a massive library of incredible mods over the years.  Keeping track of the best HL2 mods can be cumbersome as everything is mostly scattered across Gamebanana, Moddb, and Gmod Workshop.  There are arguably no great all-one-one HL2 texture mods for retexturing the entire game, as most texture mods are either not comprehensive or make contentious changes to the game's original artstyle.  
 
