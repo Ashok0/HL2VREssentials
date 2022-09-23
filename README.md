@@ -12,8 +12,8 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to an unprotected folder of your choice outside of Program Files.
 2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
-4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
-5. If you have the game installed on a drive other than C, you will need to update your Managed Game Path and Executables Path in MO2 under "Tools > Settings > Paths" and "Tools > Executables". (Optional)
+4. If you have the game installed on a drive other than C, you will need to update your Managed Game Path and Executables Path in MO2 under "Tools > Settings > Paths" and "Tools > Executables". (Optional)
+5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 ## VoiceAttack Setup (Optional)
 Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
