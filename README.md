@@ -21,10 +21,10 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
 If you wish to install Nightmare House 1 manually without using this Repack, perform the following step:
-- Download Nixel's Gmod version of Nightmare House Remake and install it as a regular mod.
-- Download Nightmare House 2 and merge its "materials" and "models" folders with Nightmare House 1.
+- Download Nixel's Gmod Workshop version of Nightmare House. Decompress it with Gmad and install it as a regular mod.
+- Download Nightmare House 2 and merge its "materials" and "models" folders with Nightmare House.
 - Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
-- Remove the "bin" folders from Nightmare House 1 and Episodes 1+2.
+- Remove the "bin" folders from Nightmare House and Episodes 1+2.
 
 [**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
