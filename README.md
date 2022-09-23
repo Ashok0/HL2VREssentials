@@ -22,7 +22,7 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 2. Extract the VPK files from the zDak Total Textures Pack.
 3. Unpack the VPK files using [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html).
 4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
-5. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives the existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
+5. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
 
 ## Configuration
 
