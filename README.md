@@ -19,7 +19,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 #### zDak Total Textures Pack
-I would highly recommend using the zDak Total Texture Pack along with my Repack.  To use the zDak pack, follow these steps:
+I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
 
 1. Download the [zDak Total Textures Pack v5.7](https://www.moddb.com/addons/zdak-total-textures-pack-v13) from ModDB.
 2. Extract the VPK files from the zDak Total Textures Pack.
@@ -44,6 +44,10 @@ Note that these settings will prevent you from moving when crouching.  To adjust
 
 #### Tweak Movement Speed with VoiceAttack (Optional)
 This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!    
+
+#### Known Issues
+- When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
+
 
 ## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
