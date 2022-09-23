@@ -13,7 +13,12 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to a folder of your choice.
 2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
-4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps:
+- Navigate to Tools >  Settings > Paths and set the "Manage Game" path to your location for "hl2vr.exe".
+- Navigate to Tools > Executables. 
+--- For "Half-Life VR" and "Half-Life VR (Console)", set the Binary field to your location for "hl2vr.exe".
+--- For "Half-Life VR" and "Half-Life VR (Console)", set the Start in field to your location for the "Half-Life 2 VR" folder.
+5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 #### zDak Total Textures Pack
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  To use the zDak pack, follow these steps:
