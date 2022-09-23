@@ -15,9 +15,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps:
 - Navigate to Tools >  Settings > Paths and set the "Manage Game" path to your location for "hl2vr.exe".
-- Navigate to Tools > Executables. 
---- For "Half-Life VR" and "Half-Life VR (Console)", set the Binary field to your location for "hl2vr.exe".
---- For "Half-Life VR" and "Half-Life VR (Console)", set the Start in field to your location for the "Half-Life 2 VR" folder.
+- Navigate to Tools > Executables.  For "Half-Life VR" and "Half-Life VR (Console)", set the Binary field to your location for "hl2vr.exe" and set the Start in field to your location for the "Half-Life 2 VR" folder.
 5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 #### zDak Total Textures Pack
