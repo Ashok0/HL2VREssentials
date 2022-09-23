@@ -174,7 +174,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Intro Test Chamber Replacement**](https://gamebanana.com/mods/57134)
 
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
-- Used only "battery01".  Requires removing "battery" model from HD ITEMS.
+- Used only "battery01".  Removed conflicting "battery" model from HD ITEMS.
 
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
 
