@@ -15,7 +15,18 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
-## VoiceAttack Setup (Optional)
+#### zDak Total Textures Pack
+I would highly recommend using the zDak Total Texture Pack along with my Repack.  To use the zDak pack, follow these steps:
+
+1. Download the [zDak Total Textures Pack v5.7](https://www.moddb.com/addons/zdak-total-textures-pack-v13) from ModDB.
+2. Extract the VPK files from the zDak Total Textures Pack.
+3. Unpack the VPK files using [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html).
+4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
+5. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives the existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
+
+## Configuration
+
+#### VoiceAttack Setup (Optional)
 Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
 
 ## Included Campaign Mods
