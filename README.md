@@ -9,11 +9,10 @@ I have made an attempt to greatly simplify Half-Life 2 VR's modding process by c
 This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
 ## Installation
-1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to an unprotected folder of your choice outside of Program Files.
+1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to a folder of your choice.
 2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva, Research and Development, and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
-4. If you have the game installed on a drive other than C, you will need to update your Managed Game Path and Executables Path in MO2 under "Tools > Settings > Paths" and "Tools > Executables". (Optional)
-5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+4. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 ## VoiceAttack Setup (Optional)
 Half-Life 2 VR has a default walk speed which some people may find unnaturally fast.  This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!     
@@ -21,7 +20,7 @@ Half-Life 2 VR has a default walk speed which some people may find unnaturally f
 ## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
-If you wish to install Nightmare House 1 manually without using this Repack, perform the following steps:
+If you wish to install Nightmare House 1 manually without using this Repack, perform the following step:
 - Download Nixel's Gmod version of Nightmare House Remake and install it as a regular mod.
 - Download Nightmare House 2 and merge its "materials" and "models" folders with Nightmare House 1.
 - Mount Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
@@ -29,7 +28,7 @@ If you wish to install Nightmare House 1 manually without using this Repack, per
 
 [**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
-If you wish to install MINERVA manually without using this Repack, perform the following steps:
+If you wish to install MINERVA manually without using this Repack, perform the following step:
 - Download MINERVA from Steam and install it as a regular mod.
 - Mount Episode 1+2 in gameinfo.txt and copying Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
 - Remove the "bin" folders from MINERVA and Episodes 1+2.
@@ -37,7 +36,13 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**MINERVA VR HUD Fix**]
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
-## Included Mods
+## Included Mods (Listed in Recommended Load Order)
+[**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
+- Swapped main menu concrete textures (concretefloor037b) with better versions from zDak Total Texture Pack v5.7.
+
+[**Cinematic Mod 2013 - Lab Props Only**](https://www.moddb.com/mods/fakefactory-cinematic-mod)
+- Used only \models\props_lab\generatorcosoff.\*, \models\props_lab\generatorcosole.\*, "ff_models", and "ff_props".
+
 [**MORE COULOURS - Half-Life Alyx Valve**](https://gamebanana.com/mods/379478)
 
 [**2004 Blood Particles Recreation**](https://gamebanana.com/mods/369550)
@@ -78,10 +83,9 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
+-Added "$nodecal 1" to VMT files to prevent engine errors.
 
-- Added "nodecal" flag to mod to prevent engine errors.
-
-[**Half Life Alyx Supplycrate**](https://gamebanana.com/mods/182710)
+[**Half Life Alyx Supply Crate**](https://gamebanana.com/mods/182710)
 
 [**Half Life Alyx Trainstation Benches**](https://gamebanana.com/mods/182503)
 
@@ -98,7 +102,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
 
 [**Half-Life 2 Remade Assets DE Source 1 Port - Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
-- Used only "props_junk", "doll", and "vendingmachinesoda01a"
+- Used only "doll01", and "vendingmachinesoda01a", and "props_junk".
 
 [**Half-Life Alyx Multitool**](https://gamebanana.com/mods/320312)
 
@@ -125,13 +129,14 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**HD Explosion Decals**](https://gamebanana.com/mods/11355)
 
 [**HD ITEMS - No Battery**](https://www.moddb.com/mods/half-life-2-hd-remastered-texture-pack/downloads/hd1)
-- Removed "models\items\battery.*"
+- Removed "models\items\battery.\*" to prevent conflict with better version from "Item Revamp Pack".
 
 [**HD Maps Remake**](https://gamebanana.com/mods/6649)
 
 [**HD Newspaper**](https://gamebanana.com/mods/182496)
 
 [**HD Overhaul - Ladders Only**](https://www.playground.ru/half-life_2/file/half_life_2_uluchshennye_tekstury_v_2k-1049020)
+- Used only "NEXTGEN_MATERIALS" along with "metal" textures from \materials\Detail, \materials\models\props_c17.
 
 [**HD Remake Corkboards**](https://gamebanana.com/mods/182795)
 
@@ -150,7 +155,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**HLA Buildings**](https://gamebanana.com/mods/181933)
 
 [**HLA Combine's Props**](https://gamebanana.com/mods/366898)
-- Added "nodecal" flag to mod to prevent engine errors.
+-Added "$nodecal 1" to VMT files to prevent engine errors.
 
 [**HLA Combine's Walls**](https://gamebanana.com/mods/370056)
 
@@ -169,7 +174,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Intro Test Chamber Replacement**](https://gamebanana.com/mods/57134)
 
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
-- Used only "battery01"
+- Used only "battery01".  Requires removing "battery" model from HD ITEMS.
 
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
 
@@ -193,7 +198,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 ## Other Recommended Mods
 - [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
-- [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its art style changes.
+- [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its large filesize.
 
 ## Recommended Modding Tools
 - [**Mod Organizer 2 Plugin for Half-Life 2 VR**](https://www.nexusmods.com/halflife2/mods/35):  Allows for Skyrim style modding with Mod Organizer 2.  Removes the complexity of managing load order from "custom" folders.
@@ -204,13 +209,11 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
 - Black Mesa: Does not work.  Crashes to the desktop.
 - Research and Development: Mr. Whirly does not work.
+- HL2 MMod Improved Sounds: Partially working.  Some sounds do not play properly.
 - Cinematic Mod 2013: Partially working.  Reflections are glitched. (Reflections oddly worked fine with the Half-Life 2 VR private beta.)
-
-## Changelog
-See [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/master/CHANGELOG.md)
 
 ## Credits
 All credit for this mod pack goes to the following original creators:
 
-**[Jay], [SU]- Zen, Eevah, A-06, A-Shift, Adam "Cargo Cult" Foster, Ahri Lover, Banahezzer, BazookaTooth, Benedict_Kapustin42, Boromir Artementaller, CondiRoks, CrazyHairGuy, cubicApocalypse, Dead-Inside, DetonatedStorm, DrGordonFreeman96, Dynamic_, Ellie, Empower1, Fakefactory, Foxidimi, GameSpy, General Ecchi, H3000, HL2MMod Team, Iiopn, Iretuerye, Isomeric Gamer, Jeremiexp, Jerson Gaming, Jofoyo, jQueary, kalimando, MARK2580, Mbbote, Mine60000, MrBrightside, Munancho INC., MYSTIC, Nixel, nubblecakes, QueenPlague_Cure, Red Menace, Reverend V92, SamMaddie, Shadow_RUN, Sierra Foxtrot, Spoono, The Half-Life 2: Remade Assets Team (Retro Boy, Kube, MDDBULLDOGG, Exeros, hELLO, LVJohnFreeman, E Borge), themanclaw, TwoTime, TwoTime, Volkolak, Vort95, We Create Stuff, Wolfcl0ck, Wood_y, zDaken50, Zekeakers1**.
+*[Jay], [SU]- Zen, Eevah, A-06, A-Shift, Adam "Cargo Cult" Foster, Ahri Lover, Banahezzer, BazookaTooth, Benedict_Kapustin42, Boromir Artementaller, CondiRoks, CrazyHairGuy, cubicApocalypse, Dead-Inside, DetonatedStorm, DrGordonFreeman96, Dynamic_, Ellie, Empower1, Fakefactory, Foxidimi, GameSpy, General Ecchi, H3000, HL2MMod Team, Iiopn, Iretuerye, Isomeric Gamer, Jeremiexp, Jerson Gaming, Jofoyo, jQueary, kalimando, MARK2580, Mbbote, Mine60000, MrBrightside, Munancho INC., MYSTIC, Nixel, nubblecakes, QueenPlague_Cure, Red Menace, Reverend V92, SamMaddie, Shadow_RUN, Sierra Foxtrot, Spoono, The Half-Life 2: Remade Assets Team (Retro Boy, Kube, MDDBULLDOGG, Exeros, hELLO, LVJohnFreeman, E Borge), themanclaw, TwoTime, TwoTime, Volkolak, Vort95, We Create Stuff, Wolfcl0ck, Wood_y, zDaken50, Zekeakers1*.
 
