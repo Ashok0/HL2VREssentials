@@ -8,7 +8,7 @@ Last updated: September 23, 2022
 * [Configuration](#configuration)
 * [Known Issues](#known-issues)
 * [Included Campaign Mods](#included-campaign-mods)
-* [Included Mods](#included-mods)
+* [Included Mods](#included-mods-listed-in-recommended-load-order)
 * [Other Recommended Mods](#other-recommended-mods)
 * [Recommended Modding Tools](#recommended-modding-tools)
 * [Compatability Notes](#compatability-notes)
