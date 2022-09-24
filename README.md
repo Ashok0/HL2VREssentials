@@ -22,7 +22,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
 
 1. Download the [zDak Total Textures Pack v5.7](https://www.moddb.com/addons/zdak-total-textures-pack-v13) from ModDB.
-2. Extract the VPK files from the zDak Total Textures Pack.
+2. Extract the VPK files from the zDak pack.
 3. Unpack the VPK files using [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html).
 4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
 5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
