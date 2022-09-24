@@ -17,6 +17,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 - Navigate to "Tools >  Settings > Paths" and set the "Managed Game" path to your location for "hl2vr.exe".
 - Navigate to "Tools > Executables".  For "Half-Life VR" and "Half-Life VR (Console)", set the "Binary" field to your location for "hl2vr.exe" and set the "Start in" field to your location for the "Half-Life 2 VR" folder.
 5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+    TEST.
 
 #### zDak Total Textures Pack
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
