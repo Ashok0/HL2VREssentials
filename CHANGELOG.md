@@ -1,10 +1,10 @@
-Updated Tools
-=============
+## Updated Tools
+
 - Mod Organizer 2: Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
 - Autoexec.cfg: Enabled immersive door interactions.
 
-New mods
-========
+## New mods
+
 - Cinematic Mod 2013 - Lab Props Only
 
 - MORE COULOURS - Half-Life Alyx Valve
@@ -33,8 +33,8 @@ New mods
 
 - REMASTERED! Half-Life Alyx Combine Prisoner Pods
 
-Updated mods
-============
+## Updated mods
+
 - Nightmare House 1 Remake: Fixed menu.
 
 - Half Life 2 HD Enhancement Project: Swapped main menu concrete texture with better version from the zDak Total Texture Pack.
@@ -49,8 +49,8 @@ Updated mods
 
 - Trainstation Remade: Updated.
 
-Removed Mods
-============
+## Removed Mods
+
 - MINERVA Reimagined: Duplicate textures.
 
 - Research and Development: Does not work.
