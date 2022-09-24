@@ -33,6 +33,8 @@
 
 - REMASTERED! Half-Life Alyx Combine Prisoner Pods
 
+- Water Tower Remake
+
 ## Updated mods
 
 - Nightmare House 1 Remake: Fixed menu.
