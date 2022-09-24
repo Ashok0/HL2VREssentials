@@ -38,21 +38,21 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 3. Navigate to where you extracted HLVR_MO2_Repack_v1.rar and run ModOrganizer.exe
 4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "Tools >  Settings > Paths" and set the "Managed Game" path to your location for "hl2vr.exe".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "**Tools >  Settings > Paths**" and set the "**Managed Game**" path to your location for "**hl2vr.exe**".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "Tools > Executables".  For "Half-Life VR" and "Half-Life VR (Console)":
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "**Tools > Executables**".  For "**Half-Life VR**" and "**Half-Life VR (Console)**":
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "Binary" field to your location for "hl2vr.exe". 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "**Binary**" field to your location for "**hl2vr.exe**". 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "Start in" field to your location for the "Half-Life 2 VR" folder.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "**Start in**" field to your location for the "**Half-Life 2 VR**" folder.
 
-5. Select "Half-Life 2 VR" or "Half-Life 2 VR (Console)" in the upper right drop down bar.  
+5. Select "**Half-Life 2 VR**" or "**Half-Life 2 VR (Console)**" in the upper right drop down bar.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "Half-Life 2 VR" allows you to start the game inside your headset without console access.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR**" allows you to start the game inside your headset without console access.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "Half-Life 2 VR (Console)" allows you to use the console but you must start the game from the desktop.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR (Console)**" allows you to use the console but you must start the game from the desktop.
 
-6. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+6. Select "**Run**" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Leave all MINERVA and Nightmare House mods unticked to play the main Half-Life 2 campaign.
 
