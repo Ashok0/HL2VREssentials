@@ -11,7 +11,7 @@ Last updated: September 23, 2022
 * [Included Mods](#included-mods-listed-in-recommended-load-order)
 * [Other Recommended Mods](#other-recommended-mods)
 * [Recommended Modding Tools](#recommended-modding-tools)
-* [Compatability Notes](#compatability-notes)
+* [Compatibility Notes](#compatibility-notes)
 * [Changelog](#changelog)
 * [Credits](#credits)
 
@@ -288,7 +288,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - [**GCFScape**](https://nemstools.github.io/pages/GCFScape-Download.html): Used for decompressing VPK files.
 - [**Gmad - Easy Addon Extractor**](https://www.moddb.com/mods/garrys-mod/downloads/gmad-easy-addon-extractor): Used for decompressing Garry's Mod addons.
 
-## Compatability Notes
+## Compatibility Notes
 - Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
 - Black Mesa: Does not work.  Crashes to the desktop.
 - Research and Development: Mr. Whirly does not work.
