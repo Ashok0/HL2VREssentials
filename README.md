@@ -254,7 +254,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Cinematic Mod 2013: Partially working.  Reflections are glitched. (Reflections oddly worked fine with the Half-Life 2 VR private beta.)
 
 ## Changelog
-See [Changelog](https://github.com/Ashok0/HL2VREssentials/edit/main/CHANGELOG.md)
+See [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md)
 
 ## Credits
 All credit for this mod pack goes to the following original creators:
