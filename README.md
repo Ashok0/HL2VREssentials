@@ -11,7 +11,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 ## Installation
 #### Mod Organizer 2
 1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to a folder of your choice.
-2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva and Nightmare House Remake which all use Episode 1+2 models and textures.)
+2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva and Nightmare House Remake which all use Episode 1+2 models and textures.  You can skip this step if you only wish to play the main campaign.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps:
 
@@ -23,7 +23,15 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "Start in" field to your location for the "Half-Life 2 VR" folder.
 
-5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+5. Select "Half-Life 2 VR" or "Half-Life 2 VR (Console)" in the upper right drop down bar.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "Half-Life 2 VR" will allow you to boot the game directly inside your headset without console access.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "Half-Life 2 VR (Console)" will allow you to boot the game with console access but you must start the game from your monitor or the desktop view in Virtual Desktop.
+6. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Leave all MINERVA and Nightmare House mods unticked to play the main Half-Life 2 campaign.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the MINERVA mods and leave the Nightmare House mods disabled to play MINERVA.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the Nightmare House mods and leave the MINERVA mods disabled to play Nightmare House.
 
 #### zDak Total Textures Pack
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
