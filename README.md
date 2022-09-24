@@ -50,6 +50,7 @@ This modpack binds two seperate walking speeds to the "alt" (slow walking) and "
 - Using mods with existed saved games may cause "AI disabled" problems.  If you run into this issue, open the console and enter the following commands:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_norebuildgraph 1*
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_resume*
 
 and then reload your saved game.  Alternatively, find the map you are currently on at the [wiki](https://wiki.sourceruns.org/wiki/Half-Life_2_Maps) and restart from there through the console via: 
