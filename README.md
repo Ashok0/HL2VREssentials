@@ -1,6 +1,20 @@
 # Half-Life 2 VR Essentials Modpack (v1.0)
 Last updated: September 23, 2022
 
+## Table of contents
+* [Preamble](#preamble)
+* [New Features](#new-features)
+* [Installation](#installation)
+* [Configuration](#configuration)
+* [Known Issues](#known-issues)
+* [Included Campaign Mods](#included-campaign-mods)
+* [Included Mods](#included-mods)
+* [Other Recommended Mods](#other-recommended-mods)
+* [Recommended Modding Tools](#recommended-modding-tools)
+* [Compatability Notes](#compatability-notes)
+* [Changelog](#changelog)
+* [Credits](#credits)
+
 ## Preamble
 Half-Life 2 has gained a massive library of incredible mods over the years.  Keeping track of the best HL2 mods can be cumbersome as everything is mostly scattered across Gamebanana, ModDB, and Gmod Workshop.  There are arguably no great all-one-one HL2 texture mods for retexturing the entire game, as most texture mods are either not comprehensive or make contentious changes to the game's original artstyle.  
 
@@ -8,7 +22,7 @@ I have made an attempt to greatly simplify Half-Life 2 VR's modding process by c
 
 This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
-## New Features (v1.0)
+## New Features
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
 - Fixed missing sound effects.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
@@ -274,7 +288,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - [**GCFScape**](https://nemstools.github.io/pages/GCFScape-Download.html): Used for decompressing VPK files.
 - [**Gmad - Easy Addon Extractor**](https://www.moddb.com/mods/garrys-mod/downloads/gmad-easy-addon-extractor): Used for decompressing Garry's Mod addons.
 
-## Compatability notes
+## Compatability Notes
 - Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
 - Black Mesa: Does not work.  Crashes to the desktop.
 - Research and Development: Mr. Whirly does not work.
