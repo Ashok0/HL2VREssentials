@@ -10,6 +10,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 ## New Features (v1.0)
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
+- Fixed missing sound effects issue.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
 - Removed duplicate MINERVA textures to significantly reduce the filesize.
 - Enabled experimental immersive doors feature in the config file.
