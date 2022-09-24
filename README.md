@@ -8,6 +8,13 @@ I have made an attempt to greatly simplify Half-Life 2 VR's modding process by c
 
 This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
 
+## New Features (v1.0)
+- Custom fixes to prevent "Too many indices for index buffer" crashes.
+- Fixed the incorrect Steam App ID in Mod Organizer 2.
+- Removed duplicate MINERVA textures to significantly reduce the filesize.
+- Enabled experimental immersive doors feature in the config file.
+- Added additional texture mods.
+
 ## Installation
 #### Mod Organizer 2
 1. Download [**HLVR_MO2_Repack_v1.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.rar) and extract Mod Organizer 2 to a folder of your choice.
