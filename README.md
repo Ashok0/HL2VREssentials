@@ -49,12 +49,12 @@ This modpack binds two seperate walking speeds to the "alt" (slow walking) and "
 - When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
 - Using mods with existed saved games may cause "AI disabled" problems.  If you run into this issue, open the console and enter the following commands:
 
-*ai_norebuildgraph 1*
-*ai_resume*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_norebuildgraph 1*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_resume*
 
 and then reload your saved game.  Alternatively, find the map you are currently on at the [wiki](https://wiki.sourceruns.org/wiki/Half-Life_2_Maps) and restart from there through the console via: 
 
-*map map_name*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*map map_name*
 
 ## Included Campaign Mods
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
