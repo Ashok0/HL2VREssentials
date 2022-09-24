@@ -43,8 +43,6 @@ Updated mods
 
 - Half Life Alyx Combine Consoles + Generator: Updated to fix engine errors.
 
-- Half-Life Alyx Props: Updated to fix engine errors.
-
 - Half-Life 2 Remade Assets DE Source 1 Port: Added doll. 
 
 - HLA Combine's Props: Updated to fix engine errors.
