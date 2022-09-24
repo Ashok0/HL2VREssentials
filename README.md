@@ -14,7 +14,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva and Nightmare House Remake which all use Episode 1+2 models and textures.)
 3. Navigate to where you extracted HLVR_MO2_Repack.rar and run ModOrganizer.exe
 4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps:
-  * Navigate to "Tools >  Settings > Paths" and set the "Managed Game" path to your location for "hl2vr.exe".
+- Navigate to "Tools >  Settings > Paths" and set the "Managed Game" path to your location for "hl2vr.exe".
 - Navigate to "Tools > Executables".  For "Half-Life VR" and "Half-Life VR (Console)", set the "Binary" field to your location for "hl2vr.exe" and set the "Start in" field to your location for the "Half-Life 2 VR" folder.
 5. Select "Run" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
@@ -25,7 +25,8 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 2. Extract the VPK files from the zDak Total Textures Pack.
 3. Unpack the VPK files using [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html).
 4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
-5. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
+5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
+6. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
 
 ## Configuration
 
