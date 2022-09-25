@@ -1,19 +1,19 @@
-# V1.01
+### V1.01
 
-### Updated mods
+#### Updated mods
 - MINERVA HUD Fix: Fixed broken health and ammo overlays.
 
-### Removed Mods
+#### Removed Mods
 - Better Foliage for Half-Life 2: Mostly redundant with zDak Total Texture Pack and upcoming HL2VR 3.0 updated content.
  
-## V1.0
+### V1.0
 
-### Updated Tools
+#### Updated Tools
 
 - Mod Organizer 2: Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
 - Autoexec.cfg: Enabled immersive door interactions.
 
-### New mods
+#### New mods
 
 - Cinematic Mod 2013 - Lab Props Only
 
@@ -45,7 +45,7 @@
 
 - Water Tower Remake
 
-### Updated mods
+#### Updated mods
 
 - Nightmare House 1 Remake: Fixed menu.
 
@@ -61,7 +61,7 @@
 
 - Trainstation Remade: Updated.
 
-### Removed Mods
+#### Removed Mods
 
 - MINERVA Reimagined: Duplicate textures.
 
@@ -71,7 +71,7 @@
 
 - Ultimate Alyx Reskin: Removed to fix engine errors.
 
-## V0.9
+### V0.9
 
 - Initial release
 
