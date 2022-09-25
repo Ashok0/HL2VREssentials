@@ -72,7 +72,7 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 
 ## Configuration
 
-#### Config File
+#### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
 (Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
 
