@@ -1,3 +1,12 @@
+## V1.01
+## V1.01
+
+### Updated mods
+- MINERVA HUD Fix: Fixed broken health and ammo overlays.
+
+### Removed Mods
+- Better Foliage for Half-Life 2: Mostly redundant with zDak Total Texture Pack and upcoming HL2VR 3.0 updated content.
+ 
 ## V1.0
 
 ### Updated Tools
@@ -62,4 +71,8 @@
 - HL2 MMod Improved Sounds: Removed to fix missing audio.
 
 - Ultimate Alyx Reskin: Removed to fix engine errors.
+
+## V0.9
+
+- Initial release
 
