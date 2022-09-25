@@ -1,9 +1,11 @@
-## Updated Tools
+## V1.0
+
+# Updated Tools
 
 - Mod Organizer 2: Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
 - Autoexec.cfg: Enabled immersive door interactions.
 
-## New mods
+# New mods
 
 - Cinematic Mod 2013 - Lab Props Only
 
@@ -35,7 +37,7 @@
 
 - Water Tower Remake
 
-## Updated mods
+# Updated mods
 
 - Nightmare House 1 Remake: Fixed menu.
 
@@ -51,7 +53,7 @@
 
 - Trainstation Remade: Updated.
 
-## Removed Mods
+# Removed Mods
 
 - MINERVA Reimagined: Duplicate textures.
 
