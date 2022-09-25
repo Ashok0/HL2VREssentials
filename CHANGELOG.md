@@ -1,5 +1,4 @@
 ## V1.01
-## V1.01
 
 ### Updated mods
 - MINERVA HUD Fix: Fixed broken health and ammo overlays.
