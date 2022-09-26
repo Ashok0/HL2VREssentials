@@ -50,7 +50,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 5. Select "**Half-Life 2 VR**" or "**Half-Life 2 VR (Console)**" in the upper right drop down bar.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR**" allows you to start the game and use the main menu in your headset with no in-game console.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR**" allows you to use the main menu in your headset with no in-game console.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR (Console)**" allows you to use the console in-game but the main menu only works from the desktop.
 
