@@ -284,7 +284,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 ## Other Recommended Mods
 - [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
 - [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its large filesize.
-- [** Fixed Hands**](https://steamcommunity.com/app/658920/discussions/0/3362523432271321089/): Adds hands to some of the handless models.
+- [**Fixed Hands**](https://steamcommunity.com/app/658920/discussions/0/3362523432271321089/): Adds hands to some of the handless models.
 
 ## Recommended Modding Tools
 - [**Mod Organizer 2 Plugin for Half-Life 2 VR**](https://www.nexusmods.com/halflife2/mods/35):  Allows for Skyrim style modding with Mod Organizer 2.  Removes the complexity of managing load order from "custom" folders.
