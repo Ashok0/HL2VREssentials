@@ -118,7 +118,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
 - Remove the "bin" folders from MINERVA and Episodes 1+2.
 
-[**MINERVA VR HUD Fix**]
+[**MINERVA HUD Fix for VR**](https://gamebanana.com/mods/403825)
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
 ## Included Mods (Listed in Recommended Load Order)
