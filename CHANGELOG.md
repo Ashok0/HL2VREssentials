@@ -7,7 +7,7 @@
 #### New mods
 - [[Half Life Alyx] Scanner (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
 - [Alyx-Themed Ration Package](https://gamebanana.com/mods/320806)
-- [Buggy Remaster](https://gamebanana.com/mods/181955)
+- [Buggy Remaster](https://gamebanana.com/mods/181955): Added "$nodecal 1" to VMT files to prevent engine errors.
 - [Half Life Alyx Cars and Combine Traincar](https://gamebanana.com/mods/181073)
 - [Half-Life Alyx Car Battery Replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=2016800872&searchtext=car+battery)
 - [Half-Life Alyx Strider FIX](https://gamebanana.com/mods/289813)
