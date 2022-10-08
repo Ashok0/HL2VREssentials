@@ -46,6 +46,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "**Tools > Executables**".  For "**Half-Life 2 VR**":
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "**Binary**" field to your location for "**hl2vr.exe**". 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "**Start in**" field to your location for the "**Half-Life 2 VR**" folder.
 
 5. Select "**Half-Life 2 VR**" in the upper right drop down bar.  
