@@ -80,15 +80,6 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
 (Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
 
-#### Tweak Movement Speed with Autoexec.cfg (Optional)
-Walking speed can be tweaked with slower values by adding these two lines to: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hl2_normspeed 120*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hl2_sprintspeed 220*
-
-Note that these settings will prevent you from moving when crouching.  To adjust walking speed without breaking crouching, you can alternatively tweak your movement speed with VoiceAttack as described below.
-
 ## Known Issues
 - When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
 - Using mods with existed saved games may cause "AI disabled" problems.  If you run into this issue, open the console and enter the following commands:
