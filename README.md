@@ -165,8 +165,6 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
 - Added "$nodecal 1" to VMT files to prevent engine errors.
 
-[**Half Life Alyx Supply Crate**](https://gamebanana.com/mods/182710)
-
 [**Half Life Alyx Trainstation Benches**](https://gamebanana.com/mods/182503)
 
 [**Half-Life 2 Propane Canisters - Remake**](https://gamebanana.com/mods/182547)
