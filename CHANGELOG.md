@@ -14,7 +14,7 @@
 - [HL Alyx Watermelon [REPLACEMENT]](https://steamcommunity.com/sharedfiles/filedetails/?id=2501044748&searchtext=watermelon)
 - [J Barnes Item Crates](https://www64.zippyshare.com/v/6iMwXfjW/file.html): Custom modded crate textures without City 17 decals.  Original mod available [HERE](https://gamebanana.com/mods/182716).
 - [Laundry Machines Remake](https://gamebanana.com/mods/182498)
-- Added the following optional HD zombie mods (disabled by default): [Half-life Alyx Zombie Replacement 2 FIX](https://gamebanana.com/mods/182311), [[Half Life Alyx] Classic Headcrab (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab), [HLA-Styled Poison Zombie](https://gamebanana.com/mods/284999), [Half-Life Alyx Poison Headcrab in Half-Life 2](https://gamebanana.com/mods/182446), [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287)
+- Added the following optional HD zombie mods (disabled by default): [Half-Life Alyx Zombie Replacement 2 FIX](https://gamebanana.com/mods/182311), [[Half Life Alyx] Classic Headcrab (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab), [HLA-Styled Poison Zombie](https://gamebanana.com/mods/284999), [Half-Life Alyx Poison Headcrab in Half-Life 2](https://gamebanana.com/mods/182446), [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287)
  
 #### Removed mods
 - [Half Life Alyx Supply Crate](https://gamebanana.com/mods/182710): Removed due to collision problems.
