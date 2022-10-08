@@ -89,9 +89,6 @@ Walking speed can be tweaked with slower values by adding these two lines to: *\
 
 Note that these settings will prevent you from moving when crouching.  To adjust walking speed without breaking crouching, you can alternatively tweak your movement speed with VoiceAttack as described below.
 
-#### Tweak Movement Speed with VoiceAttack (Optional)
-This modpack binds two seperate walking speeds to the "alt" (slow walking) and "shift" (running) keys.  If you bind words like "walk" and "run" to the "alt" and "shift" keys in the free version of [**VoiceAttack**](https://voiceattack.com/), you can toggle between walking and running on the fly in VR by simply reciting "walk" or "run" in your headset mic!    
-
 ## Known Issues
 - When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
 - Using mods with existed saved games may cause "AI disabled" problems.  If you run into this issue, open the console and enter the following commands:
