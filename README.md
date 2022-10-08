@@ -3,9 +3,7 @@ Last updated: October 8th, 2022
 
 ## Table of contents
 * [Preamble](#preamble)
-* [New Features](#new-features)
 * [Installation](#installation)
-* [Configuration](#configuration)
 * [Known Issues](#known-issues)
 * [Included Campaign Mods](#included-campaign-mods)
 * [Included Mods](#included-mods-listed-in-recommended-load-order)
@@ -20,9 +18,9 @@ Half-Life 2 has gained a massive library of incredible mods over the years.  Kee
 
 I have made an attempt to greatly simplify Half-Life 2 VR's modding process by creating a standalone copy of Mod Organizer 2 which is preconfigured with the most essential mods for improving immersion in Half-Life 2 VR.  Great care was taken in selecting the best and most "VR friendly" models and textures with an appropriate load order across a wide variety of different texture mods.  All credit for the mods included in this modpack goes to the original mod authors.   
 
-This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR. 
+This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR.  If you experience any problems with this mod pack, please submit a bug report so I can continue to improve this mod list!
 
-## New Features
+**New Updates**
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
 - Fixed missing sound effects.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
@@ -61,6 +59,10 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the HD zombie mods under "Optional Texture Mods" to enable Alyx style zombies and headcrabs.  Disabled by default.
 
+#### Launch Settings
+With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
+(Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
+
 #### zDak Total Textures Pack
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
 
@@ -70,12 +72,6 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
 5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
 6. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
-
-## Configuration
-
-#### Launch Settings
-With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
-(Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
 
 ## Known Issues
 - When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
