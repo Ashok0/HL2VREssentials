@@ -1,3 +1,25 @@
+### V1.02
+
+#### Updated mods
+- MINERVA HUD Fix: Fixed main menu to display VR options.
+- Half Life 2 HD Enhancement Project: Swapped the following low res textures with superior versions from zDak: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*
+
+#### New mods
+- [Half Life Alyx] Scanner (Replacement)
+- Alyx-Themed Ration Package
+- Buggy Remaster
+- Half Life Alyx Cars and Combine Traincar
+- Half-Life Alyx Car Battery Replacement
+- Half-Life Alyx Strider FIX
+- HL Alyx Watermelon [REPLACEMENT]
+- J Barnes Item Crates
+- Laundry Machines Remake
+- Added the following optional HD zombie mods (disabled by default): Half-life Alyx Zombie Replacement 2 FIX, [Half Life Alyx] Classic Headcrab (Replacement), HLA-Styled Poison Zombie, Half-Life Alyx Poison Headcrab in Half-Life 2, HLA Style Fast Zombie Collection - Fair Skin
+ 
+#### Removed mods
+- Better Foliage
+- Half Life Alyx Supply Crate
+
 ### V1.01
 
 #### Updated mods
