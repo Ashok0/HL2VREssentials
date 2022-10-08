@@ -36,61 +36,61 @@
 
 #### New mods
 
-- Cinematic Mod 2013 - Lab Props Only
+- [Cinematic Mod 2013 - Lab Props Only](https://www.moddb.com/mods/fakefactory-cinematic-mod)
 
-- MORE COULOURS - Half-Life Alyx Valve
+- [MORE COULOURS - Half-Life Alyx Valve](https://gamebanana.com/mods/379478)
 
-- Airboat Remaster
+- [Airboat Remaster](https://gamebanana.com/mods/181939)
 
-- Better Foliage for Half-Life 2
+- [Better Foliage for Half-Life 2](https://gamebanana.com/wips/51165)
 
-- GAZ-53 Replacement
+- [GAZ-53 Replacement](https://gamebanana.com/mods/358140)
 
-- Half Life Alyx Alcohol Bottles
+- [Half Life Alyx Alcohol Bottles](https://gamebanana.com/mods/182502)
 
-- Half Life Alyx Cargo Containers
+- [Half Life Alyx Cargo Containers](https://gamebanana.com/mods/182533)
 
-- Half-Life Alyx Multitool
+- [Half-Life Alyx Multitool](https://gamebanana.com/mods/320312)
 
-- Half-Life Alyx Props
+- [Half-Life Alyx Props](https://gamebanana.com/mods/181050)
 
-- HD Overhaul - Ladders Only
+- [HD Overhaul - Ladders Only](https://www.playground.ru/half-life_2/file/half_life_2_uluchshennye_tekstury_v_2k-1049020)
 
-- HLA Bones Pack
+- [HLA Bones Pack](https://gamebanana.com/mods/384956)
 
-- HLA Buildings
+- [HLA Buildings](https://gamebanana.com/mods/181933)
 
-- HLA Props Pack
+- [HLA Props Pack](https://gamebanana.com/mods/181058)
 
-- REMASTERED! Half-Life Alyx Combine Prisoner Pods
+- [REMASTERED! Half-Life Alyx Combine Prisoner Pods](https://gamebanana.com/mods/329975)
 
-- Water Tower Remake
+- [Water Tower Remake](https://gamebanana.com/mods/181934)
 
 #### Updated mods
 
-- Nightmare House 1 Remake: Fixed menu.
+- [Nightmare House 1 Remake](https://steamcommunity.com/workshop/filedetails/?id=481052291): Fixed menu.
 
-- Half Life 2 HD Enhancement Project: Swapped main menu concrete texture with better version from the zDak Total Texture Pack.
+- [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped main menu concrete texture with better version from the zDak Total Texture Pack.
 
-- Blood 4K: Updated to fix engine errors.
+- [Blood 4K](https://gamebanana.com/mods/11370): Updated to fix engine errors.
 
-- Half Life Alyx Combine Consoles + Generator: Updated to fix engine errors.
+- [Half Life Alyx Combine Consoles + Generator](https://gamebanana.com/mods/183145): Updated to fix engine errors.
 
-- Half-Life 2 Remade Assets DE Source 1 Port: Added doll. 
+- [Half-Life 2 Remade Assets DE Source 1 Port](https://gamebanana.com/mods/300761): Added doll. 
 
-- HLA Combine's Props: Updated to fix engine errors.
+- [HLA Combine's Props](https://gamebanana.com/mods/366898): Updated to fix engine errors.
 
-- Trainstation Remade: Updated.
+- [Trainstation Remade](https://gamebanana.com/mods/400743): Updated.
 
 #### Removed Mods
 
-- MINERVA Reimagined: Duplicate textures.
+- [MINERVA Reimagined]: Duplicate textures.
 
-- Research and Development: Does not work.
+- [Research and Development]: Does not work.
 
-- HL2 MMod Improved Sounds: Removed to fix missing audio.
+- [HL2 MMod Improved Sounds]: Removed to fix missing audio.
 
-- Ultimate Alyx Reskin: Removed to fix engine errors.
+- [Ultimate Alyx Reskin]: Removed to fix engine errors.
 
 ### V0.9
 
