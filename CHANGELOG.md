@@ -17,22 +17,21 @@
 - Added the following optional HD zombie mods (disabled by default): [Half-life Alyx Zombie Replacement 2 FIX](https://gamebanana.com/mods/182311), [[Half Life Alyx] Classic Headcrab (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab), [HLA-Styled Poison Zombie](https://gamebanana.com/mods/284999), [Half-Life Alyx Poison Headcrab in Half-Life 2](https://gamebanana.com/mods/182446), [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287)
  
 #### Removed mods
-- Better Foliage: Redundant with the zDak Total Textures Pack.
-- Half Life Alyx Supply Crate: Removed due to collision problems.
+- [Half Life Alyx Supply Crate](https://gamebanana.com/mods/182710): Removed due to collision problems.
 
 ### V1.01
 
 #### Updated mods
-- MINERVA HUD Fix: Fixed broken health and ammo overlays.
+- [MINERVA HUD Fix](https://gamebanana.com/mods/403825): Fixed broken health and ammo overlays.
 
 #### Removed Mods
-- Better Foliage for Half-Life 2: Mostly redundant with zDak Total Texture Pack and upcoming HL2VR 3.0 updated content.
+- [Better Foliage for Half-Life 2](https://gamebanana.com/wips/51165): Mostly redundant with zDak Total Texture Pack and upcoming HL2VR 3.0 updated content.
  
 ### V1.0
 
 #### Updated Tools
 
-- Mod Organizer 2: Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
+- [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer): Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
 - Autoexec.cfg: Enabled immersive door interactions.
 
 #### New mods
