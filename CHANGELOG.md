@@ -6,15 +6,15 @@
 
 #### New mods
 - [[Half Life Alyx] Scanner (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
-- Alyx-Themed Ration Package
-- Buggy Remaster
-- Half Life Alyx Cars and Combine Traincar
-- Half-Life Alyx Car Battery Replacement
-- Half-Life Alyx Strider FIX
-- HL Alyx Watermelon [REPLACEMENT]
+- [Alyx-Themed Ration Package](https://gamebanana.com/mods/320806)
+- [Buggy Remaster](https://gamebanana.com/mods/181955)
+- [Half Life Alyx Cars and Combine Traincar](https://gamebanana.com/mods/181073)
+- [Half-Life Alyx Car Battery Replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=2016800872&searchtext=car+battery)
+- [Half-Life Alyx Strider FIX](https://gamebanana.com/mods/289813)
+- [HL Alyx Watermelon [REPLACEMENT]](https://steamcommunity.com/sharedfiles/filedetails/?id=2501044748&searchtext=watermelon)
 - [J Barnes Item Crates](https://www64.zippyshare.com/v/6iMwXfjW/file.html): Custom modded textures without City17 decals.
-- Laundry Machines Remake
-- Added the following optional HD zombie mods (disabled by default): Half-life Alyx Zombie Replacement 2 FIX, [Half Life Alyx] Classic Headcrab (Replacement), HLA-Styled Poison Zombie, Half-Life Alyx Poison Headcrab in Half-Life 2, HLA Style Fast Zombie Collection - Fair Skin
+- [Laundry Machines Remake](https://gamebanana.com/mods/182498)
+- Added the following optional HD zombie mods (disabled by default): [Half-life Alyx Zombie Replacement 2 FIX](https://gamebanana.com/mods/182311), [[Half Life Alyx] Classic Headcrab (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab), [HLA-Styled Poison Zombie](https://gamebanana.com/mods/284999), [Half-Life Alyx Poison Headcrab in Half-Life 2](https://gamebanana.com/mods/182446), [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287)
  
 #### Removed mods
 - Better Foliage: Redundant with the zDak Total Textures Pack.
