@@ -84,13 +84,13 @@
 
 #### Removed Mods
 
-- [MINERVA Reimagined]: Duplicate textures.
+- [MINERVA Reimagined](https://www.moddb.com/mods/minerva-reimagined): Duplicate textures.
 
-- [Research and Development]: Does not work.
+- [Research and Development](https://www.moddb.com/mods/research-and-development): Does not work.
 
-- [HL2 MMod Improved Sounds]: Removed to fix missing audio.
+- [HL2 MMod Improved Sounds](https://gamebanana.com/mods/40723): Removed to fix missing audio.
 
-- [Ultimate Alyx Reskin]: Removed to fix engine errors.
+- [Ultimate Alyx Reskin](https://gamebanana.com/mods/182178): Removed to fix engine errors.
 
 ### V0.9
 
