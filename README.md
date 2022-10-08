@@ -5,7 +5,6 @@ Last updated: October 8th, 2022
 * [Preamble](#preamble)
 * [Installation](#installation)
 * [Known Issues](#known-issues)
-* [Included Campaign Mods](#included-campaign-mods)
 * [Included Mods](#included-mods-listed-in-recommended-load-order)
 * [Other Recommended Mods](#other-recommended-mods)
 * [Recommended Modding Tools](#recommended-modding-tools)
@@ -85,7 +84,7 @@ and then reload your saved game.  Alternatively, find the map you are currently 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*map map_name*
 
-## Included Campaign Mods
+## Included Mods (Listed in Recommended Load Order)
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
 If you wish to install Nightmare House 1 manually without using this Repack, perform the following steps:
@@ -105,7 +104,6 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**MINERVA HUD Fix for VR**](https://gamebanana.com/mods/403825)
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
-## Included Mods (Listed in Recommended Load Order)
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
 - Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*) with better versions from zDak Total Texture Pack v5.7.
 
