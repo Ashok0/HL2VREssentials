@@ -260,8 +260,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
 - Used only "battery01".  Removed conflicting "battery" model from HD ITEMS.
 
-[**J Barnes Item Crate**](https://gamebanana.com/mods/182716)
-- Custom textures with City 17 decals removed.
+[**J Barnes Item Crate**](https://www64.zippyshare.com/v/6iMwXfjW/file.html)
+- Used custom modded crate textures with City 17 decals removed.  Original mod available [HERE](https://gamebanana.com/mods/182716).
 
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
 
