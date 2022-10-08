@@ -5,7 +5,7 @@
 - [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped the following low res textures with superior versions from zDak Total Textures Pack: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*
 
 #### New mods
-- [Half Life Alyx] Scanner (Replacement)
+- [[Half Life Alyx] Scanner (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
 - Alyx-Themed Ration Package
 - Buggy Remaster
 - Half Life Alyx Cars and Combine Traincar
