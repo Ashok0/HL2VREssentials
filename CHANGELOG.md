@@ -12,7 +12,7 @@
 - Half-Life Alyx Car Battery Replacement
 - Half-Life Alyx Strider FIX
 - HL Alyx Watermelon [REPLACEMENT]
-- J Barnes Item Crates: Custom modded textures without City17 decals.
+- [J Barnes Item Crates](https://www64.zippyshare.com/v/6iMwXfjW/file.html): Custom modded textures without City17 decals.
 - Laundry Machines Remake
 - Added the following optional HD zombie mods (disabled by default): Half-life Alyx Zombie Replacement 2 FIX, [Half Life Alyx] Classic Headcrab (Replacement), HLA-Styled Poison Zombie, Half-Life Alyx Poison Headcrab in Half-Life 2, HLA Style Fast Zombie Collection - Fair Skin
  
