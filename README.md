@@ -50,11 +50,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Set the "**Start in**" field to your location for the "**Half-Life 2 VR**" folder.
 
-5. Select "**Half-Life 2 VR**" or "**Half-Life 2 VR (Console)**" in the upper right drop down bar.  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR**" allows you to use the main menu in your headset with no in-game console.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» "**Half-Life 2 VR (Console)**" allows you to use the console in-game but the main menu only works from the desktop.
+5. Select "**Half-Life 2 VR**" in the upper right drop down bar.  
 
 6. Select "**Run**" in the upper right corner of Mod Organizer 2 to launch Half-Life 2 VR with the mods included in this modpack.
 
