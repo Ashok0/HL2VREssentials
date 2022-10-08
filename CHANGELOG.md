@@ -1,7 +1,7 @@
 ### V1.02
 
 #### Updated mods
-- MINERVA HUD Fix: Fixed main menu to display VR options.
+- [MINERVA HUD Fix](https://gamebanana.com/mods/403825): Fixed main menu to display VR options.
 - Half Life 2 HD Enhancement Project: Swapped the following low res textures with superior versions from zDak: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*
 
 #### New mods
