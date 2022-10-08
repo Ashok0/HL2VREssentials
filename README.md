@@ -111,10 +111,12 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 ## Included Mods (Listed in Recommended Load Order)
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
-- Swapped main menu concrete textures (concretefloor037b) with better versions from zDak Total Texture Pack v5.7.
+- Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.*, stonewall050k.*, stonewall051a.*, stonewall051a_normal.*, stonewall051b.*, stonewall051c.*) with better versions from zDak Total Texture Pack v5.7.
 
 [**Cinematic Mod 2013 - Lab Props Only**](https://www.moddb.com/mods/fakefactory-cinematic-mod)
 - Used only \models\props_lab\generatorconsoff.\*, \models\props_lab\generatorconsole.\*, "ff_models", and "ff_props".
+
+[**[Half Life Alyx] Scanner (Replacement)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
 
 [**MORE COULOURS - Half-Life Alyx Valve**](https://gamebanana.com/mods/379478)
 
@@ -134,9 +136,12 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**Airboat Remaster**](https://gamebanana.com/mods/181939)
 
+[**Alyx-Themed Ration Package**](https://gamebanana.com/mods/320806)
+
 [**BazookaTooth's HL2 FX Pack**](https://gamebanana.com/mods/11302)
 
-[**Better Foliage for Half-Life 2**](https://gamebanana.com/wips/51165)
+[**Buggy Remaster**](https://gamebanana.com/mods/181955)
+- Added "$nodecal 1" to VMT files to prevent engine errors.
 
 [**Combine Turret Remake**](https://gamebanana.com/mods/182474)
 
@@ -152,6 +157,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half Life Alyx Alcohol Bottles**](https://gamebanana.com/mods/182502)
 
 [**Half Life Alyx Cargo Containers**](https://gamebanana.com/mods/182533)
+
+[**Half Life Alyx Cars and Combine Traincar**](https://gamebanana.com/mods/181073)
 
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
@@ -177,6 +184,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half-Life 2 Remade Assets DE Source 1 Port - Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
 - Used only "doll01", "vendingmachinesoda01a", and "props_junk".
 
+[**Half-Life Alyx Car Battery Replacement**](https://steamcommunity.com/sharedfiles/filedetails/?id=2016800872&searchtext=car+battery)
+
 [**Half-Life Alyx Multitool**](https://gamebanana.com/mods/320312)
 
 [**Half-Life Alyx Pigeon**](https://gamebanana.com/mods/318698)
@@ -186,6 +195,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Extra-Detailed DrBreens Water Set - Blue Popcan**](https://gamebanana.com/mods/181932)
 
 [**Half-Life Alyx Repaired HEV Suit**](https://gamebanana.com/mods/293420)
+
+[**Half-Life Alyx Strider FIX**](https://gamebanana.com/mods/289813)
 
 [**Half-Life Alyx Suitcase**](https://gamebanana.com/mods/330741)
 
@@ -223,6 +234,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**HD Remake Barrels (Old Version)**](https://gamebanana.com/mods/182562)
 
+[**HL Alyx Watermelon [REPLACEMENT]**](https://steamcommunity.com/sharedfiles/filedetails/?id=2501044748&searchtext=watermelon)
+
 [**HLA Bones Pack**](https://gamebanana.com/mods/384956)
 
 [**HLA Buildings**](https://gamebanana.com/mods/181933)
@@ -249,7 +262,12 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Item Revamp Pack - Battery Only**](https://gamebanana.com/mods/181063)
 - Used only "battery01".  Removed conflicting "battery" model from HD ITEMS.
 
+[**J Barnes Item Crate**](https://gamebanana.com/mods/182716)
+- Custom textures with City 17 decals removed.
+
 [**Jerrycan Replacement**](https://gamebanana.com/mods/296119)
+
+[**Laundry Machines Remake**](https://gamebanana.com/mods/182498) 
 
 [**Manhack Remake**](https://gamebanana.com/mods/182473)
 
@@ -268,6 +286,16 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Vanilla Style Half-Life Alyx Health Charger**](https://gamebanana.com/mods/182565)
 
 [**Water Tower Remake**](https://gamebanana.com/mods/181934)
+
+[**Half-Life Alyx Zombie Replacement 2 FIX**](https://gamebanana.com/mods/182311)
+
+[**[Half Life Alyx] Classic Headcrab (Replacement)**](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab)
+
+[**HLA-Styled Poison Zombie**](https://gamebanana.com/mods/284999)
+
+[**Half-Life Alyx Poison Headcrab in Half-Life 2**](https://gamebanana.com/mods/182446)
+
+[**HLA Style Fast Zombie Collection - Fair Skin**](https://gamebanana.com/mods/182287)
 
 ## Other Recommended Mods
 - [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
