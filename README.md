@@ -26,10 +26,11 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
 - Fixed missing sound effects.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
-- Fixed the Nightmare House menu.
+- Fixed the Nightmare House and MINERVA menu.
 - Removed duplicate MINERVA textures to significantly reduce the filesize.
 - Enabled experimental immersive doors feature in the config file.
 - Added additional texture mods.
+- Added optional HD Alyx style zombie mods. Disabled by default as these mods change the artsyle from the original vanilla models.
 
 ## Installation
 
