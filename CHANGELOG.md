@@ -1,22 +1,25 @@
-### V1.02
+### V1.03
 
 #### Updated mods
 - [MINERVA HUD Fix for VR](https://gamebanana.com/mods/403825): Fixed main menu to display VR options.
-- [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped the following low res textures with superior versions from zDak Total Textures Pack v5.7: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*
+- [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped the following low res textures with superior versions from zDak Total Textures Pack v5.7: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*, \FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf
 
 #### New mods
 - [[Half Life Alyx] Scanner (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
 - [Alyx-Themed Ration Package](https://gamebanana.com/mods/320806)
 - [Buggy Remaster](https://gamebanana.com/mods/181955): Added "$nodecal 1" to VMT files to prevent engine errors.
 - [Half Life Alyx Cars and Combine Traincar](https://gamebanana.com/mods/181073)
+- [Half-Life 2 Remade Assets DE Source 1 Port - Suitcase Junk Doll Vending Only](https://gamebanana.com/mods/300761): Added suitcase.
 - [Half-Life Alyx Car Battery Replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=2016800872&searchtext=car+battery)
 - [Half-Life Alyx Strider FIX](https://gamebanana.com/mods/289813)
 - [HL Alyx Watermelon [REPLACEMENT]](https://steamcommunity.com/sharedfiles/filedetails/?id=2501044748&searchtext=watermelon)
+- [HLA Props Pack - Shoe Bottles Only](https://gamebanana.com/mods/181058): Added shoe.
 - [J Barnes Item Crates](https://www64.zippyshare.com/v/6iMwXfjW/file.html): Custom modded crate textures without City 17 decals.  Original mod available [HERE](https://gamebanana.com/mods/182716).
 - [Laundry Machines Remake](https://gamebanana.com/mods/182498)
 - Added the following optional HD zombie mods (disabled by default): [Half-Life Alyx Zombie Replacement 2 FIX](https://gamebanana.com/mods/182311), [[Half Life Alyx] Classic Headcrab (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2016485109&searchtext=alyx+headcrab), [HLA-Styled Poison Zombie](https://gamebanana.com/mods/284999), [Half-Life Alyx Poison Headcrab in Half-Life 2](https://gamebanana.com/mods/182446), [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287)
  
 #### Removed mods
+- [Half-Life Alyx Suitcase](https://gamebanana.com/mods/330741): Redundant with Half-Life 2 Remade Assets DE Source 1 Port.
 - [Half Life Alyx Supply Crate](https://gamebanana.com/mods/182710): Removed due to collision problems.
 
 ### V1.01
