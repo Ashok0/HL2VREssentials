@@ -56,7 +56,7 @@ This modpack is also pre-configured with experimental VR support for MINERVA: Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the Nightmare House mods and leave the MINERVA mods disabled to play Nightmare House.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the HD zombie mods under "Optional Texture Mods" to enable Alyx style zombies and headcrabs.  Disabled by default.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the HD zombie mods under "Optional Texture Mods" to enable Alyx style zombies.  Disabled by default.
 
 #### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
