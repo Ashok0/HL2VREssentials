@@ -246,7 +246,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**HLA Playground Props**](https://gamebanana.com/mods/386837)
 
 [**HLA Props Pack - Shoe Bottles Only**](https://gamebanana.com/mods/181058)
-- Used only shoe*.* and *bottle*.* files.
+- Used only shoe*.* and \*bottle*.* files.
 
 [**HLA-L4D1 Flashlight Replacement**](https://gamebanana.com/mods/374478)
 
