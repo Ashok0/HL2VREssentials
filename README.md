@@ -107,7 +107,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
-- Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*) with better versions from zDak Total Texture Pack v5.7.
+- Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*, \FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf) with better versions from zDak Total Texture Pack v5.7.
 
 [**Cinematic Mod 2013 - Lab Props Only**](https://www.moddb.com/mods/fakefactory-cinematic-mod)
 - Used only \models\props_lab\generatorconsoff.\*, \models\props_lab\generatorconsole.\*, "ff_models", and "ff_props".
@@ -175,8 +175,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**Half-Life 2 Remade Assets (Washing Machine)**](https://gamebanana.com/mods/347118)
 
-[**Half-Life 2 Remade Assets DE Source 1 Port - Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
-- Used only "doll01", "vendingmachinesoda01a", and "props_junk".
+[**Half-Life 2 Remade Assets DE Source 1 Port - Suitcase Junk Doll Vending Only**](https://gamebanana.com/mods/300761)
+- Used only "suitcase", "doll01", "vendingmachinesoda01a", and "props_junk".
 
 [**Half-Life Alyx Car Battery Replacement**](https://steamcommunity.com/sharedfiles/filedetails/?id=2016800872&searchtext=car+battery)
 
@@ -191,8 +191,6 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half-Life Alyx Repaired HEV Suit**](https://gamebanana.com/mods/293420)
 
 [**Half-Life Alyx Strider FIX**](https://gamebanana.com/mods/289813)
-
-[**Half-Life Alyx Suitcase**](https://gamebanana.com/mods/330741)
 
 [**HD Beta Antlion Reskin**](https://gamebanana.com/mods/182066)
 
@@ -247,7 +245,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**HLA Playground Props**](https://gamebanana.com/mods/386837)
 
-[**HLA Props Pack**](https://gamebanana.com/mods/181058)
+[**HLA Props Pack - Shoe Bottles Only**](https://gamebanana.com/mods/181058)
+- Used only shoe*.* and *bottle*.* files.
 
 [**HLA-L4D1 Flashlight Replacement**](https://gamebanana.com/mods/374478)
 
