@@ -1,6 +1,8 @@
 # Half-Life 2 VR Essentials Modpack (v1.02)
 Last updated: October 8th, 2022
 
+**If you have purple textures with v1.02, install the zDak Pack.  Fix will be added to v1.03.**
+
 ## Table of contents
 * [Preamble](#preamble)
 * [Installation](#installation)
