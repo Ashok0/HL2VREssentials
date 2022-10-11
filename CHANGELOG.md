@@ -1,3 +1,8 @@
+### V1.04
+
+#### Updated mods
+- [Half Life Alyx Cars and Combine Traincar](https://gamebanana.com/mods/181073): Removed "car002a.dx90.vtx" to prevent crashes to the desktop.
+
 ### V1.03
 
 #### Updated mods
