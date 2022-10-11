@@ -17,7 +17,7 @@ Half-Life 2 has gained a massive library of incredible mods over the years.  Kee
 
 I have made an attempt to greatly simplify Half-Life 2 VR's modding process by creating a standalone copy of Mod Organizer 2 which is preconfigured with the most essential mods for improving immersion in Half-Life 2 VR.  Great care was taken in selecting the best and most "VR friendly" models and textures with an appropriate load order across a wide variety of different texture mods.  All credit for the mods included in this modpack goes to the original mod authors.   
 
-This modpack is also pre-configured with experimental VR support for MINERVA: Metastasis and Nightmare House Remake.  According to Nixel on Gmod Workshop, these campaigns can be completed without their DLL files.  I have not fully tested these campaigns, but they should theoretically work in VR.  If you experience any problems with this mod pack, please submit a bug report so I can continue to improve this mod list!
+This modpack is also pre-configured with VR support for MINERVA: Metastasis and Nightmare House Remake.  These campaigns are fully playable in VR without their DLL files. If you experience any problems with this mod pack, please submit a bug report so I can continue to improve this mod list!
 
 **New Updates**
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
