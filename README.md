@@ -153,6 +153,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half Life Alyx Cargo Containers**](https://gamebanana.com/mods/182533)
 
 [**Half Life Alyx Cars and Combine Traincar**](https://gamebanana.com/mods/181073)
+- Removed "car002a.dx90.vtx" to prevent crashes to the desktop.
 
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
