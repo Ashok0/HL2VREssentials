@@ -105,7 +105,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
-- Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*, \FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf) with better versions from zDak Total Texture Pack v5.7.
+- Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*) with better versions from zDak Total Texture Pack v5.7.  If the zDak Total Textures Pack is already installed, these textures can simply be deleted from HEP.  
+- Added zDak stone wall pre-requisite textures (\FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf).  Not necessary if the zDak Total Textures Pack is already installed. 
 
 [**Cinematic Mod 2013 - Lab Props Only**](https://www.moddb.com/mods/fakefactory-cinematic-mod)
 - Used only \models\props_lab\generatorconsoff.\*, \models\props_lab\generatorconsole.\*, "ff_models", and "ff_props".
