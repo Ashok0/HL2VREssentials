@@ -70,7 +70,7 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 3. Open 'zDak Total Textures Pack v5.7_dir.vpk' in [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html) and unpack the VPK files.
 4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
 5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
-6. Launch MO2. Drag and drop the zDak pack ABOVE any other texture mods in the left window pane.  This gives existing mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything not covered by the Repack. 
+6. Launch MO2. Drag and drop the zDak pack BELOW custom campaign mods and ABOVE any other texture packs/mods in the left window pane.  It should typically be placed above the HL2 HD Enhancement Project.  This gives existing texture mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything (in both Half-Life 2 and custom campaigns) not covered by the Repack.   
 
 ## Known Issues
 - When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
