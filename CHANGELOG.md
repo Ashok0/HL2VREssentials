@@ -7,7 +7,7 @@
 
 #### Updated mods
 - [MINERVA HUD Fix for VR](https://gamebanana.com/mods/403825): Fixed main menu to display VR options.
-- [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped the following low res textures with superior versions from zDak Total Textures Pack v5.7: stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*, \FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf
+- [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650): Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.*, stonewall050k.*, stonewall051a.*, stonewall051a_normal.*, stonewall051b.*, stonewall051c.*) with better versions from zDak Total Textures Pack v5.7. Added zDak stone wall pre-requisite textures (\FF_Detail\plaster_detail_04.vtf, \FF_Detail\noise_detail_01.vtf, \FF_Detail\gmetal_grey.vtf). 
 
 #### New mods
 - [[Half Life Alyx] Scanner (Replacement)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118&searchtext=alyx+scanner)
