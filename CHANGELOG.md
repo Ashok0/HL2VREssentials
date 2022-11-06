@@ -1,14 +1,14 @@
 ### V1.05
 
 #### New mods
-[Half-Life 2: Lost Coast](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
-[Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
-[HLA File Cabinets**](https://gamebanana.com/mods/406912)
+- [Half-Life 2: Lost Coast](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
+- [Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
+- [HLA File Cabinets**](https://gamebanana.com/mods/406912)
 
 #### Updated mods
 - [HLA Bones Pack](https://gamebanana.com/mods/384956): Updated to v1.1.
 
-### Updated tools
+#### Updated tools
 - NoBloom.cfg: Added optional config file to disable Bloom.
 
 #### Removed Mods
