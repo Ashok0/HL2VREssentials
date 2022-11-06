@@ -316,7 +316,7 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 - Black Mesa Source: Incompatible. Maps work in VR but NPCs do not load.
 - Black Mesa: Incompatible. Crashes to the desktop.
 - Research and Development: Incompatible. Mr. Whirly does not work.
-- Entopy Zero: Incompatible: Frequent crashes to the desktop.
+- Entopy Zero: Incompatible. Frequent crashes to the desktop.
 - HL2 MMod Improved Sounds: Incompatible. Broken sounds.
 - Cinematic Mod 2013: Compatible.  Minor graphical glitches with reflections in the train station and Dr. Breen's office.
 - Lost Coast: Compatible.
