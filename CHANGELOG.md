@@ -9,7 +9,7 @@
 - [HLA Bones Pack](https://gamebanana.com/mods/384956): Updated to v1.1.
 
 #### Updated tools
-- NoBloom.cfg: Added optional config file to disable Bloom.
+- NoBloom.cfg: Added config file to disable Bloom.
 
 #### Removed Mods
 - [HLA Style Fast Zombie Collection - Fair Skin](https://gamebanana.com/mods/182287): Removed due to reports of game breaking bugs with AI.
