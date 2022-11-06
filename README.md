@@ -58,7 +58,7 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the HD zombie mods under "Optional Texture Mods" to enable Alyx style zombies.  Disabled by default.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable "No Bloom" to disable Bloom.  Highly recommended when playing Lost Coast.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Untick "No Bloom" to enable Bloom.
 
 #### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
