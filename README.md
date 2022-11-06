@@ -1,5 +1,5 @@
-# Half-Life 2 VR Essentials Modpack (v1.04)
-Last updated: October 11th, 2022
+# Half-Life 2 VR Essentials Modpack (v1.05)
+Last updated: November 6th, 2022
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -17,7 +17,7 @@ Half-Life 2 has gained a massive library of incredible mods over the years.  Kee
 
 I have made an attempt to greatly simplify Half-Life 2 VR's modding process by creating a standalone copy of Mod Organizer 2 which is preconfigured with the most essential mods for improving immersion in Half-Life 2 VR.  Great care was taken in selecting the best and most "VR friendly" models and textures with an appropriate load order across a wide variety of different texture mods.  All credit for the mods included in this modpack goes to the original mod authors.   
 
-This modpack is also pre-configured with VR support for MINERVA: Metastasis and Nightmare House Remake.  These campaigns are fully playable in VR without their DLL files. If you experience any problems with this mod pack, please submit a bug report so I can continue to improve this mod list!
+This modpack is also pre-configured with VR support for Lost Coast, Year Long Alarm, MINERVA: Metastasis, and Nightmare House Remake.  These campaigns are fully playable in VR without their DLL files. If you experience any problems with this mod pack, please submit a bug report so I can continue to improve this mod list!
 
 **New Updates**
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
@@ -33,9 +33,9 @@ This modpack is also pre-configured with VR support for MINERVA: Metastasis and 
 
 #### Mod Organizer 2
 :small_orange_diamond: ***If the download links below fail to download in your Web browser, please use Internet Download Manager or JDownloader2 which are confirmed to work fine.*** 
-1. Download [**HLVR_MO2_Repack_v1.04.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.04.rar) and extract Mod Organizer 2 to a folder of your choice outside of "Users" or "Program Files".  It's best to extract the folder near the root level of your drive i.e. C:\Games\HL2VR
+1. Download [**HLVR_MO2_Repack_v1.05.rar**](http://188.42.46.42/hl2vr/HLVR_MO2_Repack_v1.05.rar) and extract Mod Organizer 2 to a folder of your choice outside of "Users" or "Program Files".  It's best to extract the folder near the root level of your drive i.e. C:\Games\HL2VR
 2. Download [**EP1+2 Assets.rar**](http://188.42.46.42/hl2vr/EP1+2%20Assets.rar) and extract the contents to your \Steam\steamapps\common\Half-Life 2 VR\ folder.  (This adds episodic assets to your HL2VR folder.  This will NOT allow you to play the episodes, but it will allow you to play Minerva and Nightmare House Remake which all use Episode 1+2 models and textures.  You can skip this step if you only wish to play the main campaign.)
-3. Navigate to where you extracted **HLVR_MO2_Repack_v1.04.rar** and run **ModOrganizer.exe**
+3. Navigate to where you extracted **HLVR_MO2_Repack_v1.05.rar** and run **ModOrganizer.exe**
 4. If you installed Half-Life 2 VR on a drive other than the C drive, please perform the following steps in Mod Organizer 2:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigate to "**Tools >  Settings > Paths**" and set the "**Managed Game**" path to your location for "**hl2vr.exe**".
@@ -57,6 +57,8 @@ This modpack is also pre-configured with VR support for MINERVA: Metastasis and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the Nightmare House mods and leave the MINERVA mods disabled to play Nightmare House.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable the HD zombie mods under "Optional Texture Mods" to enable Alyx style zombies.  Disabled by default.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Enable "No Bloom" to disable Bloom.  Highly recommended when playing Lost Coast.
 
 #### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
@@ -85,6 +87,10 @@ and then reload your saved game.  Alternatively, find the map you are currently 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*map map_name*
 
 ## Included Mods (Listed in Recommended Load Order)
+[**Half-Life 2: Lost Coast**](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
+If you wish to install Lost Coast manually without using this Repack, perform the following steps:
+- Remove "scripts\hudanimations.txt", "resource\gamemenu.res", and "gameinfo.txt"
+
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
 
 If you wish to install Nightmare House 1 manually without using this Repack, perform the following steps:
@@ -103,6 +109,14 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**MINERVA HUD Fix for VR**](https://gamebanana.com/mods/403825)
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
+
+[Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
+
+If you wish to install Year Long Alarm manually without using this Repack, perform the following steps:
+- Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Remove "bin" folder
+- Remove "resource\GameMenu.res"
+- Remove "scripts\vgui_screens.txt" and "scripts\weapon*.*" 
 
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
 - Swapped main menu concrete textures (concretefloor037b) and stone wall textures (stonewall050f.\*, stonewall050k.\*, stonewall051a.\*, stonewall051a_normal.\*, stonewall051b.\*, stonewall051c.\*) with better versions from zDak Total Textures Pack v5.7.  If the zDak Total Textures Pack is already installed, these textures can simply be deleted from HEP to save space.  
@@ -190,8 +204,6 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**Half-Life Alyx Repaired HEV Suit**](https://gamebanana.com/mods/293420)
 
-[**Half-Life Alyx Strider FIX**](https://gamebanana.com/mods/289813)
-
 [**HD Beta Antlion Reskin**](https://gamebanana.com/mods/182066)
 
 [**HD Cactus**](https://gamebanana.com/mods/182505)
@@ -241,6 +253,8 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**HD Remake Combine's Lock**](https://gamebanana.com/mods/183151)
 
+[**HLA File Cabinets**](https://gamebanana.com/mods/406912)
+
 [**HLA Padlock Prop**](https://gamebanana.com/mods/378884)
 
 [**HLA Playground Props**](https://gamebanana.com/mods/386837)
@@ -288,8 +302,6 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 [**Half-Life Alyx Poison Headcrab in Half-Life 2**](https://gamebanana.com/mods/182446)
 
-[**HLA Style Fast Zombie Collection - Fair Skin**](https://gamebanana.com/mods/182287)
-
 ## Other Recommended Mods
 - [**HL2 VR - Comic Book Mod**](https://ko-fi.com/post/ComicBook4K-Release-Y8Y3F2OH5): Beautiful Borderlands style texture mod!
 - [**zDak Total Textures Pack**](https://www.moddb.com/addons/zdak-total-textures-pack-v13):  A very nice and comprehensive texture mod which looks beautiful in VR.  Not included in this modpack due to its large filesize.
@@ -301,11 +313,19 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 - [**Gmad - Easy Addon Extractor**](https://www.moddb.com/mods/garrys-mod/downloads/gmad-easy-addon-extractor): Used for decompressing Garry's Mod addons.
 
 ## Compatibility Notes
-- Black Mesa Source:  Does not work.  Maps work in VR but NPCs do not load.
-- Black Mesa: Does not work.  Crashes to the desktop.
-- Research and Development: Mr. Whirly does not work.
-- HL2 MMod Improved Sounds: Partially working.  Some sounds do not play properly.
-- Cinematic Mod 2013: Partially working.  Reflections are glitched. (Reflections oddly worked fine with the Half-Life 2 VR private beta.)
+- Black Mesa Source: Incompatible. Maps work in VR but NPCs do not load.
+- Black Mesa: Incompatible. Crashes to the desktop.
+- Research and Development: Incompatible. Mr. Whirly does not work.
+- Entopy Zero: Incompatible: Frequent crashes to the desktop.
+- HL2 MMod Improved Sounds: Incompatible. Broken sounds.
+- Cinematic Mod 2013: Compatible.  Minor graphical glitches with reflections in the train station and Dr. Breen's office.
+- Lost Coast: Compatible.
+- Minerva: Compatible.
+- Year Long Alarm: Compatible.
+- Too Many Crates: Compatible.
+- Nightmare Church: Compatible.
+- Silent Hill Alchemilla Demo: Compatible.
+- Silent Hill Alchemilla Full Version: Untested.  All maps load fine but may contain game breaking bugs.
 
 ## Changelog
 See [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md)
