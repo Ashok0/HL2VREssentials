@@ -4,7 +4,7 @@ Last updated: November 6th, 2022
 ## Table of contents
 * [Preamble](#preamble)
 * [Installation](#installation)
-* [Known Issues](#known-issues)
+* [Updating](#updating)
 * [Included Mods](#included-mods-listed-in-recommended-load-order)
 * [Other Recommended Mods](#other-recommended-mods)
 * [Recommended Modding Tools](#recommended-modding-tools)
@@ -62,6 +62,8 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Untick "No Bloom" to enable Bloom.
 
+- When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
+
 #### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
 (Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
@@ -76,17 +78,20 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
 6. Launch MO2. Drag and drop the zDak pack BELOW custom campaign mods and ABOVE any other texture packs/mods in the left window pane.  It should typically be placed above the HL2 HD Enhancement Project.  This gives existing texture mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything (in both Half-Life 2 and custom campaigns) not covered by the Repack.   
 
-## Known Issues
-- When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. 
-- Using mods with existed saved games may cause "AI disabled" problems.  If you run into this issue, open the console and enter the following commands:
+## Updating
+Half-Life 2 mods are not supported by tools like Wabbajack which means there is no easy way to update mod lists.  If you wish to update the Half-Life 2 VR Essentials mod pack, you will need to delete your existing installation and redownload the latest mod pack.  If you do not wish to redownload the entire mod pack, you can manually perform recommended changes to the modlist which are listed in the [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md).  
+
+- When updating the mod pack, it is recommended to start a clean saved game.  Once you start a new campaign, you can find the map you are currently on at the [wiki](https://wiki.sourceruns.org/wiki/Half-Life_2_Maps) and restart from there through the console via: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*map map_name* 
+ 
+- You can always attempt to use pre-existing saved games when updating the mod pack, but you may run into bugs.  One common issue is the "AI disabled" error.  If you run into this problem, open the console and enter the following commands:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_norebuildgraph 1*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ai_resume*
 
-and then reload your saved game.  Alternatively, find the map you are currently on at the [wiki](https://wiki.sourceruns.org/wiki/Half-Life_2_Maps) and restart from there through the console via: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*map map_name*
+and then reload your saved game.
 
 ## Included Mods (Listed in Recommended Load Order)
 [**Half-Life 2: Lost Coast**](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
