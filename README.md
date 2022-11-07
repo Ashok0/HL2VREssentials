@@ -25,7 +25,7 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 - Fixed missing sound effects.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
 - Fixed the main menu for Nightmare House and MINERVA.
-- Removed duplicate MINERVA textures to significantly reduce the filesize.
+- Removed duplicate MINERVA textures to significantly reduce the filesize of the mod pack.
 - Added support for Lost Coast and Year Long Alarm.
 - Enabled experimental immersive doors feature and disabled Bloom in the config file.
 - Added additional texture mods.
