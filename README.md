@@ -145,7 +145,7 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
          game+mod			lostcoast/lostcoast_sound_vo_english.vpk
          game+mod			lostcoast/lostcoast_pak.vpk
          
-- Remove "bin" folder
+- Remove "bin" folder from Year Long Alarm and Episodes 1+2.
 - Remove "resource\GameMenu.res"
 - Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Then replace the "CustomFontFiles" section with the following code to fix the main menu logo: 
 
