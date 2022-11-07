@@ -147,7 +147,13 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
          
 - Remove "bin" folder
 - Remove "resource\GameMenu.res"
-- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Edit and remove "'2'		'resource/HLVREP2.ttf'" to fix menu logo.
+- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Then replace the "CUSTOM FONT FILES" section with the following code to fix the main menu logo:
+         CustomFontFiles
+         {
+                  "1"		"resource/HALFLIFE2.ttf"
+                  "2"		"resource/HL2crosshairs.ttf"
+         }
+
 - Remove "scripts\vgui_screens.txt" and "scripts\weapon*.*" 
 
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
