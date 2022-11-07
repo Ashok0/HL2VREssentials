@@ -63,11 +63,11 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» Untick "No Bloom" to enable Bloom.
 
 #### Saved Games
-When using Mod Organizer 2, saved games are stored in MO2's \overwrite\save folder and will not be synced with Steam Cloud. Make sure to back up your saves before removing or updating the mod pack.
+When using Mod Organizer 2, saved games are stored in MO2's *\overwrite\save* folder and will not be synced with Steam Cloud. Make sure to back up your saves before removing or updating the mod pack.
 
 #### Launch Settings
 With Mod Organizer 2, you can set custom commands to run at starup by placing them in: *\Your Mod Organizer 2 Folder\mods\Config File\cfg\autoexec.cfg*
-(Do not place settings in the autoexec.cfg in your Steam folder as this file is not used by MO2.)
+(Do not place settings in the *autoexec.cfg* in your Steam folder as this file is not used by MO2.)
 
 #### zDak Total Textures Pack
 I would highly recommend using the zDak Total Texture Pack along with my Repack.  It improves lots of materials and models not covered by this Repack and greatly improves immersion in VR.  To use the zDak pack, follow these steps:
