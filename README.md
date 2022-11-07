@@ -92,6 +92,7 @@ and then reload your saved game.  Alternatively, find the map you are currently 
 [**Half-Life 2: Lost Coast**](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
 
 If you wish to install Lost Coast manually without using this Repack, perform the following steps:
+- Download Lost Coast from Steam and install it as a regular mod.
 - Remove "scripts\hudanimations.txt", "resource\gamemenu.res", and "gameinfo.txt"
 
 [**Nightmare House 1 Remake**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
@@ -106,7 +107,16 @@ If you wish to install Nightmare House 1 manually without using this Repack, per
 
 If you wish to install MINERVA manually without using this Repack, perform the following steps:
 - Download MINERVA from Steam and install it as a regular mod.
-- Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs. 
+- Replace "gameinfo.txt" with "hlvr\gameinfo.txt".  Then add the following lines under "//HL2 Content": 
+
+         game+mod			episodic/ep1_sound_vo_english.vpk	 
+         game+mod			episodic/ep1_pak.vpk
+         game+mod			ep2/ep2_sound_vo_english.vpk
+         game+mod			ep2/ep2_pak.vpk
+         game+mod			lostcoast/lostcoast_sound_vo_english.vpk
+         game+mod			lostcoast/lostcoast_pak.vpk
+         
 - Remove the "bin" folders from MINERVA and Episodes 1+2.
 - Remove GameMenu.res
 
@@ -116,6 +126,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**Half-Life 2: Year Long Alarm**](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
 
 If you wish to install Year Long Alarm manually without using this Repack, perform the following steps:
+- Download Year Long Alarm from Steam and install it as a regular mod.
 - Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
 - Remove "bin" folder
 - Remove "resource\GameMenu.res"
