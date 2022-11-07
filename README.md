@@ -110,7 +110,7 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 [**MINERVA HUD Fix for VR**](https://gamebanana.com/mods/403825)
 - Custom patched ClientScheme.res and titles.txt to allow for HUD messages to display properly in VR.
 
-[Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
+[**Half-Life 2: Year Long Alarm**](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
 
 If you wish to install Year Long Alarm manually without using this Repack, perform the following steps:
 - Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
