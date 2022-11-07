@@ -356,7 +356,8 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 - :x:**HL2 MMod Improved Sounds**: Incompatible. Broken sounds.
 - :heavy_check_mark:**Cinematic Mod 2013**: Compatible.  Minor graphical glitches with reflections in the train station and Dr. Breen's office.
 - :heavy_check_mark:**Lost Coast**: Compatible.
-- :heavy_check_mark:**Minerva**: Compatible.
+- :heavy_check_mark:**Nightmare House Remake**: Compatible.
+- :heavy_check_mark:**Minerva: Metastasis**: Compatible.
 - :heavy_check_mark:**Year Long Alarm**: Compatible.
 - :heavy_check_mark:**Too Many Crates**: Compatible.
 - :heavy_check_mark:**Nightmare Church**: Compatible.
