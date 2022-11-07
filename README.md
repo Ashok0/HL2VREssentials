@@ -29,7 +29,7 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 - Added support for Lost Coast and Year Long Alarm.
 - Enabled experimental immersive doors feature and disabled Bloom in the config file.
 - Added additional texture mods.
-- Added optional HD Alyx style zombie mods. Disabled by default as these mods change the artsyle from the original vanilla models.
+- Added optional HD Alyx style zombie mods. Disabled by default as these mods change the artstyle from the original vanilla models.
 
 ## Installation
 
