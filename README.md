@@ -362,7 +362,7 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 - :heavy_check_mark:**Too Many Crates**: Compatible.
 - :heavy_check_mark:**Nightmare Church**: Compatible.
 - :heavy_check_mark:**Silent Hill Alchemilla Demo**: Compatible.
-- :white_circle:**Silent Hill Alchemilla Full Version**: Untested.  All maps load fine but may contain game breaking bugs.
+- :grey_question:**Silent Hill Alchemilla Full Version**: Untested.  All maps load fine but may contain game breaking bugs.
 
 ## Changelog
 See [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md)
