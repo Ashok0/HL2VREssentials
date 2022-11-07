@@ -57,7 +57,7 @@
 #### Updated Tools
 
 - [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer): Updated the Steam App ID from 220 to 658920.  Updated the executables to use "hl2vr.exe".
-- Autoexec.cfg: Enabled immersive door interactions.
+- Autoexec.cfg: Enabled immersive door interactions. (hlvr_grab_doors_and_levers "1")
 
 #### New mods
 
