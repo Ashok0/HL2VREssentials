@@ -116,7 +116,7 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 - Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
 - Remove "bin" folder
 - Remove "resource\GameMenu.res"
-- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Edit file and remove "'2'		'resource/HLVREP2.ttf'" to fix menu logo.
+- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Edit and remove "'2'		'resource/HLVREP2.ttf'" to fix menu logo.
 - Remove "scripts\vgui_screens.txt" and "scripts\weapon*.*" 
 
 [**Half Life 2 HD Enhancement Project**](https://gamebanana.com/mods/6650)
