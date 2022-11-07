@@ -80,7 +80,7 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 6. Launch MO2. Drag and drop the zDak pack BELOW custom campaign mods and ABOVE any other texture packs/mods in the left window pane.  It should typically be placed above the HL2 HD Enhancement Project.  This gives existing texture mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything (in both Half-Life 2 and custom campaigns) not covered by the Repack.   
 
 ## Updating
-Half-Life 2 mods are not supported by tools like Wabbajack which means there is no easy way to update mod lists.  If you wish to update the Half-Life 2 VR Essentials mod pack, you will need to delete your existing installation and redownload the latest mod pack.  If you do not wish to redownload the entire mod pack, you can manually perform recommended changes to the modlist which are listed in the [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md).  
+Half-Life 2 mods are not supported by tools like Wabbajack which means there is no easy way to update mod lists for Half-Life 2.  If you wish to update the mod pack, you will need to delete your existing installation and then redownload the latest mod pack.  If you do not wish to redownload the entire mod pack, you can manually perform recommended changes to the mod list which are listed in the [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md).  
 
 - When updating the mod pack, it is recommended to start a clean saved game.  Once you start a new campaign, you can find the map you are currently on at the [wiki](https://wiki.sourceruns.org/wiki/Half-Life_2_Maps) and restart from there through the console via: 
 
