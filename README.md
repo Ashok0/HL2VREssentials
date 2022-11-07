@@ -100,7 +100,15 @@ If you wish to install Lost Coast manually without using this Repack, perform th
 If you wish to install Nightmare House 1 manually without using this Repack, perform the following steps:
 - Download Nixel's Gmod Workshop version of Nightmare House. Decompress it with Gmad and install it as a regular mod.
 - Download Nightmare House 2 and merge its "materials" and "models" folders with Nightmare House.
-- Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs. 
+- Replace "gameinfo.txt" with "hlvr\gameinfo.txt".  Then add the following lines under "//HL2 Content": 
+
+         game+mod			episodic/ep1_sound_vo_english.vpk	 
+         game+mod			episodic/ep1_pak.vpk
+         game+mod			ep2/ep2_sound_vo_english.vpk
+         game+mod			ep2/ep2_pak.vpk
+         game+mod			lostcoast/lostcoast_sound_vo_english.vpk
+         game+mod			lostcoast/lostcoast_pak.vpk
 - Remove the "bin" folders from Nightmare House and Episodes 1+2.
 
 [**MINERVA: Metastasis**](https://steamcommunity.com/workshop/filedetails/?id=481052291)
@@ -127,7 +135,16 @@ If you wish to install MINERVA manually without using this Repack, perform the f
 
 If you wish to install Year Long Alarm manually without using this Repack, perform the following steps:
 - Download Year Long Alarm from Steam and install it as a regular mod.
-- Mount Episode 1+2 in gameinfo.txt and copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs.
+- Copy Episode 1+2 to \Half-Life 2 VR\ with decompressed VPKs. 
+- Replace "gameinfo.txt" with "hlvr\gameinfo.txt".  Then add the following lines under "//HL2 Content": 
+
+         game+mod			episodic/ep1_sound_vo_english.vpk	 
+         game+mod			episodic/ep1_pak.vpk
+         game+mod			ep2/ep2_sound_vo_english.vpk
+         game+mod			ep2/ep2_pak.vpk
+         game+mod			lostcoast/lostcoast_sound_vo_english.vpk
+         game+mod			lostcoast/lostcoast_pak.vpk
+         
 - Remove "bin" folder
 - Remove "resource\GameMenu.res"
 - Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Edit and remove "'2'		'resource/HLVREP2.ttf'" to fix menu logo.
