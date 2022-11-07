@@ -21,11 +21,13 @@ This modpack is also pre-configured with VR support for Lost Coast, Year Long Al
 
 **New Updates**
 - Custom fixes to prevent "Too many indices for index buffer" crashes.
+- Removed unstable mods to fix crashes, AI errors, and load zone issues in "We Don't Go To Ravenholm..." and "Follow Freeman".
 - Fixed missing sound effects.
 - Fixed the incorrect Steam App ID in Mod Organizer 2.
 - Fixed the main menu for Nightmare House and MINERVA.
 - Removed duplicate MINERVA textures to significantly reduce the filesize.
-- Enabled experimental immersive doors feature in the config file.
+- Added support for Lost Coast and Year Long Alarm.
+- Enabled experimental immersive doors feature and disabled Bloom in the config file.
 - Added additional texture mods.
 - Added optional HD Alyx style zombie mods. Disabled by default as these mods change the artsyle from the original vanilla models.
 
