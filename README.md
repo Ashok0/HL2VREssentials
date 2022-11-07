@@ -147,7 +147,10 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
          
 - Remove "bin" folder
 - Remove "resource\GameMenu.res"
-- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Then replace the "CustomFontFiles" section with the following code to fix the main menu logo:
+- Replace "resource\ClientScheme.res" with "\hlvr\resource\ClientScheme.res".  Then replace the "CustomFontFiles" section with the following code to fix the main menu logo: 
+
+         game+mod			episodic/ep1_sound_vo_english.vpk	 
+         game+mod			episodic/ep1_pak.vpk
          "1"		"resource/HALFLIFE2.ttf"
          "2"		"resource/HL2crosshairs.ttf"
 
