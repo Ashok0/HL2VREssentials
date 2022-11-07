@@ -213,7 +213,6 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 [**Half Life Alyx Claypot**](https://gamebanana.com/mods/380287)
 
 [**Half Life Alyx Combine Consoles + Generator**](https://gamebanana.com/mods/183145)
-- Added "$nodecal 1" to VMT files to prevent engine errors.
 
 [**Half Life Alyx Trainstation Benches**](https://gamebanana.com/mods/182503)
 
