@@ -73,7 +73,7 @@ I would highly recommend using the zDak Total Texture Pack along with my Repack.
 1. Download the [zDak Total Textures Pack v5.7](https://www.mediafire.com/file/09itw0czhgj5a57/zDak+Total+Textures+Pack+v5.7_066.zip/file) from ModDB.
 2. Extract the VPK files from the zDak pack.
 3. Open 'zDak Total Textures Pack v5.7_dir.vpk' in [GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html) and unpack the VPK files.
-4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to \Your Mod Organizer 2 folder\mods\
+4. Place the extracted "materials", "models", and "sounds" folders in a new folder i.e. "zDak Total Textures Pack" and move this folder to *\Your Mod Organizer 2 folder\mods*
 5. Optionally remove the following files from the zDak pack as the vanilla textures look better in VR: decal_policeline01a.* and traincar_bars*.*   
 6. Launch MO2. Drag and drop the zDak pack BELOW custom campaign mods and ABOVE any other texture packs/mods in the left window pane.  It should typically be placed above the HL2 HD Enhancement Project.  This gives existing texture mods in the mod list the highest priority.  They will continue to work normally and the zDak pack will retexture anything (in both Half-Life 2 and custom campaigns) not covered by the Repack.   
 
