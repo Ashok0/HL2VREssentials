@@ -88,6 +88,7 @@ and then reload your saved game.  Alternatively, find the map you are currently 
 
 ## Included Mods (Listed in Recommended Load Order)
 [**Half-Life 2: Lost Coast**](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/)
+
 If you wish to install Lost Coast manually without using this Repack, perform the following steps:
 - Remove "scripts\hudanimations.txt", "resource\gamemenu.res", and "gameinfo.txt"
 
