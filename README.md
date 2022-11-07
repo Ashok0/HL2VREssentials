@@ -349,19 +349,19 @@ If you wish to install Year Long Alarm manually without using this Repack, perfo
 - [**Gmad - Easy Addon Extractor**](https://www.moddb.com/mods/garrys-mod/downloads/gmad-easy-addon-extractor): Used for decompressing Garry's Mod addons.
 
 ## Compatibility Notes
-- **Black Mesa Source**: Incompatible. Maps work in VR but NPCs do not load.
-- **Black Mesa**: Incompatible. Crashes to the desktop.
-- **Research and Development**: Incompatible. Mr. Whirly does not work.
-- **Entopy Zero**: Incompatible. Frequent crashes to the desktop.
-- **HL2 MMod Improved Sounds**: Incompatible. Broken sounds.
-- **Cinematic Mod 2013**: Compatible.  Minor graphical glitches with reflections in the train station and Dr. Breen's office.
-- **Lost Coast**: Compatible.
-- **Minerva**: Compatible.
-- **Year Long Alarm**: Compatible.
-- **Too Many Crates**: Compatible.
-- **Nightmare Church**: Compatible.
-- **Silent Hill Alchemilla Demo**: Compatible.
-- **Silent Hill Alchemilla Full Version**: Untested.  All maps load fine but may contain game breaking bugs.
+- :x:**Black Mesa Source**: Incompatible. Maps work in VR but NPCs do not load.
+- :x:**Black Mesa**: Incompatible. Crashes to the desktop.
+- :x:**Research and Development**: Incompatible. Mr. Whirly does not work.
+- :x:**Entopy Zero**: Incompatible. Frequent crashes to the desktop.
+- :x:**HL2 MMod Improved Sounds**: Incompatible. Broken sounds.
+- :heavy_check_mark:**Cinematic Mod 2013**: Compatible.  Minor graphical glitches with reflections in the train station and Dr. Breen's office.
+- :heavy_check_mark:**Lost Coast**: Compatible.
+- :heavy_check_mark:**Minerva**: Compatible.
+- :heavy_check_mark:**Year Long Alarm**: Compatible.
+- :heavy_check_mark:**Too Many Crates**: Compatible.
+- :heavy_check_mark:**Nightmare Church**: Compatible.
+- :heavy_check_mark:**Silent Hill Alchemilla Demo**: Compatible.
+- :heavy_check_mark:**Silent Hill Alchemilla Full Version**: Untested.  All maps load fine but may contain game breaking bugs.
 
 ## Changelog
 See [Changelog](https://github.com/Ashok0/HL2VREssentials/blob/main/CHANGELOG.md)
